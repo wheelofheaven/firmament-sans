@@ -1,0 +1,1845 @@
+[
+  {
+    "character": "ʼ",
+    "codepoint": "U+02BC",
+    "name": "MODIFIER LETTER APOSTROPHE",
+    "category": "modifier",
+    "count": 1547,
+    "scopes": {
+      "markdown:de": 15,
+      "markdown:es": 20,
+      "markdown:fr": 15,
+      "markdown:he": 15,
+      "markdown:ja": 14,
+      "markdown:ko": 15,
+      "markdown:ru": 14,
+      "markdown:en": 8,
+      "markdown:zh": 14,
+      "markdown:zh-Hant": 14,
+      "library-json": 1403
+    },
+    "examples": [
+      "content/de/sources/_generated/bahaipedia.md",
+      "content/de/sources/_generated/kitab-i-aqdas.md",
+      "content/de/wiki/golden-age.md",
+      "content/de/wiki/great-return.md",
+      "content/de/wiki/satan.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ʼ",
+    "nfd": "ʼ"
+  },
+  {
+    "character": "ạ",
+    "codepoint": "U+1EA1",
+    "name": "LATIN SMALL LETTER A WITH DOT BELOW",
+    "category": "latin",
+    "count": 643,
+    "scopes": {
+      "markdown:de": 19,
+      "markdown:es": 19,
+      "markdown:fr": 18,
+      "markdown:he": 18,
+      "markdown:ja": 18,
+      "markdown:ko": 18,
+      "markdown:en": 19,
+      "markdown:ru": 18,
+      "markdown:zh": 18,
+      "markdown:zh-Hant": 18,
+      "library-json": 460
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/de/wiki/dragons.md",
+      "content/de/wiki/list-of-prophets-and-religions.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/wiki/dragons.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ạ",
+    "nfd": "ạ"
+  },
+  {
+    "character": "ư",
+    "codepoint": "U+01B0",
+    "name": "LATIN SMALL LETTER U WITH HORN",
+    "category": "latin",
+    "count": 510,
+    "scopes": {
+      "markdown:en": 7,
+      "markdown:de": 7,
+      "markdown:es": 7,
+      "markdown:fr": 7,
+      "markdown:he": 7,
+      "markdown:ja": 7,
+      "markdown:ko": 7,
+      "markdown:ru": 7,
+      "markdown:zh": 7,
+      "markdown:zh-Hant": 7,
+      "library-json": 440
+    },
+    "examples": [
+      "content/articles/the-religion-of-religions.md",
+      "content/de/articles/the-religion-of-religions.md",
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/articles/the-religion-of-religions.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ư",
+    "nfd": "ư"
+  },
+  {
+    "character": "ầ",
+    "codepoint": "U+1EA7",
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE",
+    "category": "latin",
+    "count": 474,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:en": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 464
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ầ",
+    "nfd": "ầ"
+  },
+  {
+    "character": "ế",
+    "codepoint": "U+1EBF",
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE",
+    "category": "latin",
+    "count": 301,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:en": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 291
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ế",
+    "nfd": "ế"
+  },
+  {
+    "character": "ơ",
+    "codepoint": "U+01A1",
+    "name": "LATIN SMALL LETTER O WITH HORN",
+    "category": "latin",
+    "count": 263,
+    "scopes": {
+      "markdown:en": 2,
+      "markdown:de": 2,
+      "markdown:es": 2,
+      "markdown:fr": 2,
+      "markdown:he": 2,
+      "markdown:ja": 2,
+      "markdown:ko": 2,
+      "markdown:ru": 2,
+      "markdown:zh": 2,
+      "markdown:zh-Hant": 2,
+      "library-json": 243
+    },
+    "examples": [
+      "content/articles/the-religion-of-religions.md",
+      "content/de/articles/the-religion-of-religions.md",
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/articles/the-religion-of-religions.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ơ",
+    "nfd": "ơ"
+  },
+  {
+    "character": "ệ",
+    "codepoint": "U+1EC7",
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW",
+    "category": "latin",
+    "count": 262,
+    "scopes": {
+      "markdown:en": 11,
+      "markdown:de": 8,
+      "markdown:es": 8,
+      "markdown:fr": 8,
+      "markdown:he": 8,
+      "markdown:ja": 8,
+      "markdown:ko": 8,
+      "markdown:ru": 8,
+      "markdown:zh": 8,
+      "markdown:zh-Hant": 8,
+      "library-json": 179
+    },
+    "examples": [
+      "content/articles/the-religion-of-religions.md",
+      "content/de/articles/the-religion-of-religions.md",
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/articles/the-religion-of-religions.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ệ",
+    "nfd": "ệ"
+  },
+  {
+    "character": "ộ",
+    "codepoint": "U+1ED9",
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW",
+    "category": "latin",
+    "count": 245,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:en": 2,
+      "markdown:ru": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 234
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ộ",
+    "nfd": "ộ"
+  },
+  {
+    "character": "ể",
+    "codepoint": "U+1EC3",
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE",
+    "category": "latin",
+    "count": 234,
+    "scopes": {
+      "markdown:en": 11,
+      "markdown:de": 8,
+      "markdown:es": 8,
+      "markdown:fr": 8,
+      "markdown:he": 8,
+      "markdown:ja": 8,
+      "markdown:ko": 8,
+      "markdown:ru": 8,
+      "markdown:zh": 8,
+      "markdown:zh-Hant": 8,
+      "library-json": 151
+    },
+    "examples": [
+      "content/articles/the-religion-of-religions.md",
+      "content/de/articles/the-religion-of-religions.md",
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/articles/the-religion-of-religions.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ể",
+    "nfd": "ể"
+  },
+  {
+    "character": "ậ",
+    "codepoint": "U+1EAD",
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW",
+    "category": "latin",
+    "count": 195,
+    "scopes": {
+      "markdown:en": 2,
+      "markdown:de": 2,
+      "markdown:es": 2,
+      "markdown:fr": 2,
+      "markdown:he": 2,
+      "markdown:ja": 2,
+      "markdown:ko": 2,
+      "markdown:ru": 2,
+      "markdown:zh": 2,
+      "markdown:zh-Hant": 2,
+      "library-json": 175
+    },
+    "examples": [
+      "content/articles/the-religion-of-religions.md",
+      "content/de/articles/the-religion-of-religions.md",
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/articles/the-religion-of-religions.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ậ",
+    "nfd": "ậ"
+  },
+  {
+    "character": "ị",
+    "codepoint": "U+1ECB",
+    "name": "LATIN SMALL LETTER I WITH DOT BELOW",
+    "category": "latin",
+    "count": 179,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:en": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 169
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ị",
+    "nfd": "ị"
+  },
+  {
+    "character": "ớ",
+    "codepoint": "U+1EDB",
+    "name": "LATIN SMALL LETTER O WITH HORN AND ACUTE",
+    "category": "latin",
+    "count": 177,
+    "scopes": {
+      "library-json": 177
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ớ",
+    "nfd": "ớ"
+  },
+  {
+    "character": "ả",
+    "codepoint": "U+1EA3",
+    "name": "LATIN SMALL LETTER A WITH HOOK ABOVE",
+    "category": "latin",
+    "count": 176,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:en": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 166
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ả",
+    "nfd": "ả"
+  },
+  {
+    "character": "ấ",
+    "codepoint": "U+1EA5",
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE",
+    "category": "latin",
+    "count": 169,
+    "scopes": {
+      "library-json": 169
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ấ",
+    "nfd": "ấ"
+  },
+  {
+    "character": "ữ",
+    "codepoint": "U+1EEF",
+    "name": "LATIN SMALL LETTER U WITH HORN AND TILDE",
+    "category": "latin",
+    "count": 131,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:en": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 121
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ữ",
+    "nfd": "ữ"
+  },
+  {
+    "character": "ǔ",
+    "codepoint": "U+01D4",
+    "name": "LATIN SMALL LETTER U WITH CARON",
+    "category": "latin",
+    "count": 126,
+    "scopes": {
+      "markdown:de": 14,
+      "markdown:es": 14,
+      "markdown:fr": 14,
+      "markdown:he": 14,
+      "markdown:ja": 14,
+      "markdown:ko": 14,
+      "markdown:ru": 14,
+      "markdown:zh": 14,
+      "markdown:zh-Hant": 14
+    },
+    "examples": [
+      "content/de/wiki/four-levels.md",
+      "content/de/wiki/geniocracy.md",
+      "content/de/wiki/living-earth.md",
+      "content/de/wiki/neo-euhemerism.md",
+      "content/de/wiki/new-commandments.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ǔ",
+    "nfd": "ǔ"
+  },
+  {
+    "character": "ồ",
+    "codepoint": "U+1ED3",
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE",
+    "category": "latin",
+    "count": 126,
+    "scopes": {
+      "library-json": 126
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ồ",
+    "nfd": "ồ"
+  },
+  {
+    "character": "ờ",
+    "codepoint": "U+1EDD",
+    "name": "LATIN SMALL LETTER O WITH HORN AND GRAVE",
+    "category": "latin",
+    "count": 122,
+    "scopes": {
+      "library-json": 122
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ờ",
+    "nfd": "ờ"
+  },
+  {
+    "character": "ứ",
+    "codepoint": "U+1EE9",
+    "name": "LATIN SMALL LETTER U WITH HORN AND ACUTE",
+    "category": "latin",
+    "count": 122,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:en": 2,
+      "markdown:ru": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 111
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ứ",
+    "nfd": "ứ"
+  },
+  {
+    "character": "ặ",
+    "codepoint": "U+1EB7",
+    "name": "LATIN SMALL LETTER A WITH BREVE AND DOT BELOW",
+    "category": "latin",
+    "count": 120,
+    "scopes": {
+      "library-json": 120
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ặ",
+    "nfd": "ặ"
+  },
+  {
+    "character": "ọ",
+    "codepoint": "U+1ECD",
+    "name": "LATIN SMALL LETTER O WITH DOT BELOW",
+    "category": "latin",
+    "count": 120,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:en": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 110
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ọ",
+    "nfd": "ọ"
+  },
+  {
+    "character": "ổ",
+    "codepoint": "U+1ED5",
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE",
+    "category": "latin",
+    "count": 117,
+    "scopes": {
+      "markdown:en": 3,
+      "markdown:de": 2,
+      "markdown:es": 2,
+      "markdown:fr": 2,
+      "markdown:he": 2,
+      "markdown:ja": 2,
+      "markdown:ko": 2,
+      "markdown:ru": 2,
+      "markdown:zh": 2,
+      "markdown:zh-Hant": 2,
+      "library-json": 96
+    },
+    "examples": [
+      "content/articles/the-religion-of-religions.md",
+      "content/de/articles/the-religion-of-religions.md",
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/articles/the-religion-of-religions.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ổ",
+    "nfd": "ổ"
+  },
+  {
+    "character": "ʻ",
+    "codepoint": "U+02BB",
+    "name": "MODIFIER LETTER TURNED COMMA",
+    "category": "modifier",
+    "count": 112,
+    "scopes": {
+      "markdown:de": 14,
+      "markdown:es": 12,
+      "markdown:fr": 14,
+      "markdown:he": 9,
+      "markdown:ja": 8,
+      "markdown:ko": 8,
+      "markdown:ru": 8,
+      "markdown:en": 7,
+      "markdown:zh": 9,
+      "markdown:zh-Hant": 11,
+      "library-json": 12
+    },
+    "examples": [
+      "content/de/sources/_generated/loeb-extraterrestrial.md",
+      "content/de/wiki/ancient-builders.md",
+      "content/de/wiki/astrobiology.md",
+      "content/de/wiki/elohim-home-planet.md",
+      "content/de/wiki/embassy.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ʻ",
+    "nfd": "ʻ"
+  },
+  {
+    "character": "ề",
+    "codepoint": "U+1EC1",
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE",
+    "category": "latin",
+    "count": 106,
+    "scopes": {
+      "library-json": 106
+    },
+    "examples": [
+      "data/library/catalog.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ề",
+    "nfd": "ề"
+  },
+  {
+    "character": "ợ",
+    "codepoint": "U+1EE3",
+    "name": "LATIN SMALL LETTER O WITH HORN AND DOT BELOW",
+    "category": "latin",
+    "count": 105,
+    "scopes": {
+      "markdown:en": 3,
+      "markdown:de": 3,
+      "markdown:es": 3,
+      "markdown:fr": 3,
+      "markdown:he": 3,
+      "markdown:ja": 3,
+      "markdown:ko": 3,
+      "markdown:ru": 3,
+      "markdown:zh": 3,
+      "markdown:zh-Hant": 3,
+      "library-json": 75
+    },
+    "examples": [
+      "content/articles/the-religion-of-religions.md",
+      "content/de/articles/the-religion-of-religions.md",
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/articles/the-religion-of-religions.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ợ",
+    "nfd": "ợ"
+  },
+  {
+    "character": "ủ",
+    "codepoint": "U+1EE7",
+    "name": "LATIN SMALL LETTER U WITH HOOK ABOVE",
+    "category": "latin",
+    "count": 96,
+    "scopes": {
+      "library-json": 96
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ủ",
+    "nfd": "ủ"
+  },
+  {
+    "character": "ắ",
+    "codepoint": "U+1EAF",
+    "name": "LATIN SMALL LETTER A WITH BREVE AND ACUTE",
+    "category": "latin",
+    "count": 91,
+    "scopes": {
+      "library-json": 91
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ắ",
+    "nfd": "ắ"
+  },
+  {
+    "character": "ố",
+    "codepoint": "U+1ED1",
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE",
+    "category": "latin",
+    "count": 82,
+    "scopes": {
+      "library-json": 82
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ố",
+    "nfd": "ố"
+  },
+  {
+    "character": "ǐ",
+    "codepoint": "U+01D0",
+    "name": "LATIN SMALL LETTER I WITH CARON",
+    "category": "latin",
+    "count": 72,
+    "scopes": {
+      "markdown:de": 8,
+      "markdown:es": 8,
+      "markdown:fr": 8,
+      "markdown:he": 8,
+      "markdown:ja": 8,
+      "markdown:ko": 8,
+      "markdown:ru": 8,
+      "markdown:zh": 8,
+      "markdown:zh-Hant": 8
+    },
+    "examples": [
+      "content/de/wiki/four-levels.md",
+      "content/de/wiki/geniocracy.md",
+      "content/de/wiki/new-commandments.md",
+      "content/de/wiki/the-tradition.md",
+      "content/de/wiki/the-truth.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ǐ",
+    "nfd": "ǐ"
+  },
+  {
+    "character": "ẕ",
+    "codepoint": "U+1E95",
+    "name": "LATIN SMALL LETTER Z WITH LINE BELOW",
+    "category": "latin",
+    "count": 57,
+    "scopes": {
+      "library-json": 57
+    },
+    "examples": [
+      "data/library/hidden-words-woh/_translation-glossary.json",
+      "data/library/hidden-words-woh/chapter-2.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ẕ",
+    "nfd": "ẕ"
+  },
+  {
+    "character": "ụ",
+    "codepoint": "U+1EE5",
+    "name": "LATIN SMALL LETTER U WITH DOT BELOW",
+    "category": "latin",
+    "count": 57,
+    "scopes": {
+      "library-json": 57
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ụ",
+    "nfd": "ụ"
+  },
+  {
+    "character": "ử",
+    "codepoint": "U+1EED",
+    "name": "LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE",
+    "category": "latin",
+    "count": 57,
+    "scopes": {
+      "library-json": 57
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ử",
+    "nfd": "ử"
+  },
+  {
+    "character": "ừ",
+    "codepoint": "U+1EEB",
+    "name": "LATIN SMALL LETTER U WITH HORN AND GRAVE",
+    "category": "latin",
+    "count": 55,
+    "scopes": {
+      "library-json": 55
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ừ",
+    "nfd": "ừ"
+  },
+  {
+    "character": "ꜥ",
+    "codepoint": "U+A725",
+    "name": "LATIN SMALL LETTER EGYPTOLOGICAL AIN",
+    "category": "latin",
+    "count": 49,
+    "scopes": {
+      "markdown:de": 5,
+      "markdown:es": 5,
+      "markdown:fr": 5,
+      "markdown:he": 5,
+      "markdown:ja": 5,
+      "markdown:ko": 5,
+      "markdown:ru": 5,
+      "markdown:en": 4,
+      "markdown:zh": 5,
+      "markdown:zh-Hant": 5
+    },
+    "examples": [
+      "content/de/wiki/list-of-etymological-readings.md",
+      "content/de/wiki/the-truth.md",
+      "content/es/wiki/list-of-etymological-readings.md",
+      "content/es/wiki/the-truth.md",
+      "content/fr/wiki/list-of-etymological-readings.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ꜥ",
+    "nfd": "ꜥ"
+  },
+  {
+    "character": "ǒ",
+    "codepoint": "U+01D2",
+    "name": "LATIN SMALL LETTER O WITH CARON",
+    "category": "latin",
+    "count": 45,
+    "scopes": {
+      "markdown:de": 5,
+      "markdown:es": 5,
+      "markdown:fr": 5,
+      "markdown:he": 5,
+      "markdown:ja": 5,
+      "markdown:ko": 5,
+      "markdown:ru": 5,
+      "markdown:zh": 5,
+      "markdown:zh-Hant": 5
+    },
+    "examples": [
+      "content/de/wiki/four-levels.md",
+      "content/de/wiki/geniocracy.md",
+      "content/de/wiki/new-commandments.md",
+      "content/de/wiki/the-tradition.md",
+      "content/es/wiki/four-levels.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ǒ",
+    "nfd": "ǒ"
+  },
+  {
+    "character": "ễ",
+    "codepoint": "U+1EC5",
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE",
+    "category": "latin",
+    "count": 43,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:en": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 33
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ễ",
+    "nfd": "ễ"
+  },
+  {
+    "character": "ự",
+    "codepoint": "U+1EF1",
+    "name": "LATIN SMALL LETTER U WITH HORN AND DOT BELOW",
+    "category": "latin",
+    "count": 42,
+    "scopes": {
+      "library-json": 42
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ự",
+    "nfd": "ự"
+  },
+  {
+    "character": "ʰ",
+    "codepoint": "U+02B0",
+    "name": "MODIFIER LETTER SMALL H",
+    "category": "modifier",
+    "count": 41,
+    "scopes": {
+      "markdown:de": 4,
+      "markdown:es": 4,
+      "markdown:fr": 4,
+      "markdown:he": 4,
+      "markdown:ja": 4,
+      "markdown:ko": 4,
+      "markdown:ru": 4,
+      "markdown:en": 4,
+      "markdown:zh": 4,
+      "markdown:zh-Hant": 4,
+      "library-json": 1
+    },
+    "examples": [
+      "content/de/wiki/list-of-etymological-readings.md",
+      "content/es/wiki/list-of-etymological-readings.md",
+      "content/fr/wiki/list-of-etymological-readings.md",
+      "content/he/wiki/list-of-etymological-readings.md",
+      "content/ja/wiki/list-of-etymological-readings.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ʰ",
+    "nfd": "ʰ"
+  },
+  {
+    "character": "ằ",
+    "codepoint": "U+1EB1",
+    "name": "LATIN SMALL LETTER A WITH BREVE AND GRAVE",
+    "category": "latin",
+    "count": 40,
+    "scopes": {
+      "library-json": 40
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ằ",
+    "nfd": "ằ"
+  },
+  {
+    "character": "ở",
+    "codepoint": "U+1EDF",
+    "name": "LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE",
+    "category": "latin",
+    "count": 40,
+    "scopes": {
+      "library-json": 40
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ở",
+    "nfd": "ở"
+  },
+  {
+    "character": "ỉ",
+    "codepoint": "U+1EC9",
+    "name": "LATIN SMALL LETTER I WITH HOOK ABOVE",
+    "category": "latin",
+    "count": 34,
+    "scopes": {
+      "markdown:en": 1,
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 24
+    },
+    "examples": [
+      "content/articles/the-religion-of-religions.md",
+      "content/de/articles/the-religion-of-religions.md",
+      "content/es/articles/the-religion-of-religions.md",
+      "content/fr/articles/the-religion-of-religions.md",
+      "content/he/articles/the-religion-of-religions.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ỉ",
+    "nfd": "ỉ"
+  },
+  {
+    "character": "ʔ",
+    "codepoint": "U+0294",
+    "name": "LATIN LETTER GLOTTAL STOP",
+    "category": "latin",
+    "count": 30,
+    "scopes": {
+      "markdown:de": 3,
+      "markdown:es": 3,
+      "markdown:fr": 3,
+      "markdown:he": 3,
+      "markdown:ja": 3,
+      "markdown:ko": 3,
+      "markdown:ru": 3,
+      "markdown:en": 3,
+      "markdown:zh": 3,
+      "markdown:zh-Hant": 3
+    },
+    "examples": [
+      "content/de/wiki/list-of-etymological-readings.md",
+      "content/es/wiki/list-of-etymological-readings.md",
+      "content/fr/wiki/list-of-etymological-readings.md",
+      "content/he/wiki/list-of-etymological-readings.md",
+      "content/ja/wiki/list-of-etymological-readings.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ʔ",
+    "nfd": "ʔ"
+  },
+  {
+    "character": "ẽ",
+    "codepoint": "U+1EBD",
+    "name": "LATIN SMALL LETTER E WITH TILDE",
+    "category": "latin",
+    "count": 30,
+    "scopes": {
+      "library-json": 30
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ẽ",
+    "nfd": "ẽ"
+  },
+  {
+    "character": "ẳ",
+    "codepoint": "U+1EB3",
+    "name": "LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE",
+    "category": "latin",
+    "count": 28,
+    "scopes": {
+      "library-json": 28
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ẳ",
+    "nfd": "ẳ"
+  },
+  {
+    "character": "ỗ",
+    "codepoint": "U+1ED7",
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE",
+    "category": "latin",
+    "count": 27,
+    "scopes": {
+      "library-json": 27
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ỗ",
+    "nfd": "ỗ"
+  },
+  {
+    "character": "ẻ",
+    "codepoint": "U+1EBB",
+    "name": "LATIN SMALL LETTER E WITH HOOK ABOVE",
+    "category": "latin",
+    "count": 20,
+    "scopes": {
+      "library-json": 20
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ẻ",
+    "nfd": "ẻ"
+  },
+  {
+    "character": "ẩ",
+    "codepoint": "U+1EA9",
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE",
+    "category": "latin",
+    "count": 19,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:en": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1,
+      "library-json": 9
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ẩ",
+    "nfd": "ẩ"
+  },
+  {
+    "character": "ǫ",
+    "codepoint": "U+01EB",
+    "name": "LATIN SMALL LETTER O WITH OGONEK",
+    "category": "latin",
+    "count": 18,
+    "scopes": {
+      "markdown:de": 2,
+      "markdown:es": 2,
+      "markdown:fr": 2,
+      "markdown:he": 2,
+      "markdown:ja": 2,
+      "markdown:ko": 2,
+      "markdown:ru": 2,
+      "markdown:zh": 2,
+      "markdown:zh-Hant": 2
+    },
+    "examples": [
+      "content/de/wiki/elohim-home-planet.md",
+      "content/de/wiki/golden-age.md",
+      "content/es/wiki/elohim-home-planet.md",
+      "content/es/wiki/golden-age.md",
+      "content/fr/wiki/elohim-home-planet.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ǫ",
+    "nfd": "ǫ"
+  },
+  {
+    "character": "ỏ",
+    "codepoint": "U+1ECF",
+    "name": "LATIN SMALL LETTER O WITH HOOK ABOVE",
+    "category": "latin",
+    "count": 16,
+    "scopes": {
+      "library-json": 16
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ỏ",
+    "nfd": "ỏ"
+  },
+  {
+    "character": "ẫ",
+    "codepoint": "U+1EAB",
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE",
+    "category": "latin",
+    "count": 10,
+    "scopes": {
+      "library-json": 10
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ẫ",
+    "nfd": "ẫ"
+  },
+  {
+    "character": "Ể",
+    "codepoint": "U+1EC2",
+    "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE",
+    "category": "latin",
+    "count": 10,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:en": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ể",
+    "nfd": "Ể"
+  },
+  {
+    "character": "Ệ",
+    "codepoint": "U+1EC6",
+    "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW",
+    "category": "latin",
+    "count": 10,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:en": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1
+    },
+    "examples": [
+      "content/de/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/es/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/fr/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/he/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md",
+      "content/ja/sources/_generated/the-collection-of-divine-messages-of-cai-dai.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ệ",
+    "nfd": "Ệ"
+  },
+  {
+    "character": "Ồ",
+    "codepoint": "U+1ED2",
+    "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE",
+    "category": "latin",
+    "count": 10,
+    "scopes": {
+      "library-json": 10
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ồ",
+    "nfd": "Ồ"
+  },
+  {
+    "character": "ǎ",
+    "codepoint": "U+01CE",
+    "name": "LATIN SMALL LETTER A WITH CARON",
+    "category": "latin",
+    "count": 9,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1
+    },
+    "examples": [
+      "content/de/wiki/four-levels.md",
+      "content/es/wiki/four-levels.md",
+      "content/fr/wiki/four-levels.md",
+      "content/he/wiki/four-levels.md",
+      "content/ja/wiki/four-levels.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ǎ",
+    "nfd": "ǎ"
+  },
+  {
+    "character": "ǵ",
+    "codepoint": "U+01F5",
+    "name": "LATIN SMALL LETTER G WITH ACUTE",
+    "category": "latin",
+    "count": 9,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1
+    },
+    "examples": [
+      "content/de/wiki/geniocracy.md",
+      "content/es/wiki/geniocracy.md",
+      "content/fr/wiki/geniocracy.md",
+      "content/he/wiki/geniocracy.md",
+      "content/ja/wiki/geniocracy.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ǵ",
+    "nfd": "ǵ"
+  },
+  {
+    "character": "̰",
+    "codepoint": "U+0330",
+    "name": "COMBINING TILDE BELOW",
+    "category": "combining-mark",
+    "count": 9,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1
+    },
+    "examples": [
+      "content/de/wiki/great-return.md",
+      "content/es/wiki/great-return.md",
+      "content/fr/wiki/great-return.md",
+      "content/he/wiki/great-return.md",
+      "content/ja/wiki/great-return.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "̰",
+    "nfd": "̰"
+  },
+  {
+    "character": "Ả",
+    "codepoint": "U+1EA2",
+    "name": "LATIN CAPITAL LETTER A WITH HOOK ABOVE",
+    "category": "latin",
+    "count": 9,
+    "scopes": {
+      "library-json": 9
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ả",
+    "nfd": "Ả"
+  },
+  {
+    "character": "ỡ",
+    "codepoint": "U+1EE1",
+    "name": "LATIN SMALL LETTER O WITH HORN AND TILDE",
+    "category": "latin",
+    "count": 9,
+    "scopes": {
+      "library-json": 9
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ỡ",
+    "nfd": "ỡ"
+  },
+  {
+    "character": "ꜣ",
+    "codepoint": "U+A723",
+    "name": "LATIN SMALL LETTER EGYPTOLOGICAL ALEF",
+    "category": "latin",
+    "count": 9,
+    "scopes": {
+      "markdown:de": 1,
+      "markdown:es": 1,
+      "markdown:fr": 1,
+      "markdown:he": 1,
+      "markdown:ja": 1,
+      "markdown:ko": 1,
+      "markdown:ru": 1,
+      "markdown:zh": 1,
+      "markdown:zh-Hant": 1
+    },
+    "examples": [
+      "content/de/wiki/the-truth.md",
+      "content/es/wiki/the-truth.md",
+      "content/fr/wiki/the-truth.md",
+      "content/he/wiki/the-truth.md",
+      "content/ja/wiki/the-truth.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ꜣ",
+    "nfd": "ꜣ"
+  },
+  {
+    "character": "Ứ",
+    "codepoint": "U+1EE8",
+    "name": "LATIN CAPITAL LETTER U WITH HORN AND ACUTE",
+    "category": "latin",
+    "count": 8,
+    "scopes": {
+      "library-json": 8
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ứ",
+    "nfd": "Ứ"
+  },
+  {
+    "character": "ʳ",
+    "codepoint": "U+02B3",
+    "name": "MODIFIER LETTER SMALL R",
+    "category": "modifier",
+    "count": 7,
+    "scopes": {
+      "markdown:fr": 7
+    },
+    "examples": [
+      "content/fr/articles/the-scrolls-that-woke-in-year-one.md",
+      "content/fr/timeline/age-of-cancer.md",
+      "content/fr/wiki/ancient-builders.md",
+      "content/fr/wiki/yahweh.md"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ʳ",
+    "nfd": "ʳ"
+  },
+  {
+    "character": "̅",
+    "codepoint": "U+0305",
+    "name": "COMBINING OVERLINE",
+    "category": "combining-mark",
+    "count": 7,
+    "scopes": {
+      "library-json": 7
+    },
+    "examples": [
+      "data/library/gospel-of-thomas-woh/source-cop-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "̅",
+    "nfd": "̅"
+  },
+  {
+    "character": "Ạ",
+    "codepoint": "U+1EA0",
+    "name": "LATIN CAPITAL LETTER A WITH DOT BELOW",
+    "category": "latin",
+    "count": 7,
+    "scopes": {
+      "library-json": 7
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/_translation-glossary.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ạ",
+    "nfd": "Ạ"
+  },
+  {
+    "character": "Ư",
+    "codepoint": "U+01AF",
+    "name": "LATIN CAPITAL LETTER U WITH HORN",
+    "category": "latin",
+    "count": 6,
+    "scopes": {
+      "library-json": 6
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ư",
+    "nfd": "Ư"
+  },
+  {
+    "character": "Ấ",
+    "codepoint": "U+1EA4",
+    "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE",
+    "category": "latin",
+    "count": 6,
+    "scopes": {
+      "library-json": 6
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ấ",
+    "nfd": "Ấ"
+  },
+  {
+    "character": "Ꜣ",
+    "codepoint": "U+A722",
+    "name": "LATIN CAPITAL LETTER EGYPTOLOGICAL ALEF",
+    "category": "latin",
+    "count": 6,
+    "scopes": {
+      "library-json": 6
+    },
+    "examples": [
+      "data/library/baal-cycle-woh/chapter-1.json",
+      "data/library/baal-cycle-woh/chapter-2.json",
+      "data/library/flood-story-woh/chapter-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ꜣ",
+    "nfd": "Ꜣ"
+  },
+  {
+    "character": "Ầ",
+    "codepoint": "U+1EA6",
+    "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE",
+    "category": "latin",
+    "count": 4,
+    "scopes": {
+      "library-json": 4
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ầ",
+    "nfd": "Ầ"
+  },
+  {
+    "character": "ẹ",
+    "codepoint": "U+1EB9",
+    "name": "LATIN SMALL LETTER E WITH DOT BELOW",
+    "category": "latin",
+    "count": 4,
+    "scopes": {
+      "library-json": 4
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ẹ",
+    "nfd": "ẹ"
+  },
+  {
+    "character": "Ậ",
+    "codepoint": "U+1EAC",
+    "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW",
+    "category": "latin",
+    "count": 3,
+    "scopes": {
+      "library-json": 3
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ậ",
+    "nfd": "Ậ"
+  },
+  {
+    "character": "Ắ",
+    "codepoint": "U+1EAE",
+    "name": "LATIN CAPITAL LETTER A WITH BREVE AND ACUTE",
+    "category": "latin",
+    "count": 3,
+    "scopes": {
+      "library-json": 3
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ắ",
+    "nfd": "Ắ"
+  },
+  {
+    "character": "Ổ",
+    "codepoint": "U+1ED4",
+    "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE",
+    "category": "latin",
+    "count": 3,
+    "scopes": {
+      "library-json": 3
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ổ",
+    "nfd": "Ổ"
+  },
+  {
+    "character": "Ờ",
+    "codepoint": "U+1EDC",
+    "name": "LATIN CAPITAL LETTER O WITH HORN AND GRAVE",
+    "category": "latin",
+    "count": 3,
+    "scopes": {
+      "library-json": 3
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ờ",
+    "nfd": "Ờ"
+  },
+  {
+    "character": "Ử",
+    "codepoint": "U+1EEC",
+    "name": "LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE",
+    "category": "latin",
+    "count": 3,
+    "scopes": {
+      "library-json": 3
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ử",
+    "nfd": "Ử"
+  },
+  {
+    "character": "Ơ",
+    "codepoint": "U+01A0",
+    "name": "LATIN CAPITAL LETTER O WITH HORN",
+    "category": "latin",
+    "count": 2,
+    "scopes": {
+      "library-json": 2
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "Ơ",
+    "nfd": "Ơ"
+  },
+  {
+    "character": "ǝ",
+    "codepoint": "U+01DD",
+    "name": "LATIN SMALL LETTER TURNED E",
+    "category": "latin",
+    "count": 2,
+    "scopes": {
+      "library-json": 2
+    },
+    "examples": [
+      "data/library/book-of-enoch-woh/chapter-72.json",
+      "data/library/book-of-enoch-woh/source-72.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ǝ",
+    "nfd": "ǝ"
+  },
+  {
+    "character": "͏",
+    "codepoint": "U+034F",
+    "name": "COMBINING GRAPHEME JOINER",
+    "category": "combining-mark",
+    "count": 2,
+    "scopes": {
+      "library-json": 2
+    },
+    "examples": [
+      "data/library/daniel-woh/chapter-1.json",
+      "data/library/daniel-woh/source-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "͏",
+    "nfd": "͏"
+  },
+  {
+    "character": "ỷ",
+    "codepoint": "U+1EF7",
+    "name": "LATIN SMALL LETTER Y WITH HOOK ABOVE",
+    "category": "latin",
+    "count": 2,
+    "scopes": {
+      "library-json": 2
+    },
+    "examples": [
+      "data/library/thanh-ngon-hiep-tuyen-woh/chapter-1.json",
+      "data/library/thanh-ngon-hiep-tuyen-woh/source-vi-1.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ỷ",
+    "nfd": "ỷ"
+  },
+  {
+    "character": "ʷ",
+    "codepoint": "U+02B7",
+    "name": "MODIFIER LETTER SMALL W",
+    "category": "modifier",
+    "count": 1,
+    "scopes": {
+      "library-json": 1
+    },
+    "examples": [
+      "data/library/jubilees-woh/source-8.json"
+    ],
+    "original": false,
+    "upstream": false,
+    "nfc": "ʷ",
+    "nfd": "ʷ"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "FirmamentSans-Bold.ttf": {
+    "codepoints": 584,
+    "shaping": "passed",
+    "upstream_regressions": "passed",
+    "bytes_woff2": 21812
+  },
+  "FirmamentSans-BoldItalic.ttf": {
+    "codepoints": 584,
+    "shaping": "passed",
+    "upstream_regressions": "passed",
+    "bytes_woff2": 26252
+  },
+  "FirmamentSans-Italic.ttf": {
+    "codepoints": 584,
+    "shaping": "passed",
+    "upstream_regressions": "passed",
+    "bytes_woff2": 23908
+  },
+  "FirmamentSans-Regular.ttf": {
+    "codepoints": 584,
+    "shaping": "passed",
+    "upstream_regressions": "passed",
+    "bytes_woff2": 19612
+  }
+}

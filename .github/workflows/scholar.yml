@@ -1,0 +1,14 @@
+name: Scholarly font checks
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: pip install -r scholar/requirements.txt
+      - run: python scholar/scripts/build.py
+      - run: python scholar/scripts/check.py
+      - run: git diff --exit-code -- scholar/fonts scholar/audit/build.json scholar/audit/validation.json

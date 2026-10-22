@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Firmament Sans — scholarly specimen</title>
+<style>
+@font-face{font-family:Firmament;src:url('../fonts/FirmamentSans-Regular.woff2')}@font-face{font-family:Firmament;src:url('../fonts/FirmamentSans-Bold.woff2');font-weight:700}@font-face{font-family:Firmament;src:url('../fonts/FirmamentSans-Italic.woff2');font-style:italic}@font-face{font-family:Firmament;src:url('../fonts/FirmamentSans-BoldItalic.woff2');font-style:italic;font-weight:700}
+@font-face{font-family:JostFull;src:url('../fonts/Jost-Regular.woff2')}@font-face{font-family:JostOld;src:url('../upstream/site-original.woff2')}
+:root{color-scheme:light dark}*{box-sizing:border-box}body{margin:0;background:#f5f2ec;color:#232c37;font-family:Firmament,sans-serif;font-size:19px;line-height:1.7}main{max-width:1100px;margin:auto;padding:56px 32px}header{border-bottom:1px solid #c7c5bd;padding-bottom:28px}.eyebrow{font:12px/1.5 monospace;letter-spacing:.16em;text-transform:uppercase;color:#52697a}h1{font-size:64px;line-height:1.1;letter-spacing:-.025em;margin:14px 0}h2{font-size:28px;margin:36px 0 12px}p{max-width:75ch}.intro{font-size:24px;max-width:60ch}.controls{display:flex;gap:24px;align-items:center;flex-wrap:wrap;font:14px system-ui;margin:28px 0}.controls input{vertical-align:middle}.samples{font-size:var(--sample-size,21px)}.row{display:grid;grid-template-columns:130px 1fr;border-top:1px solid #d3d2cb;padding:18px 0;gap:18px}.label{font:12px/1.6 monospace;color:#607080}.glyphs{font-size:40px;letter-spacing:.02em;line-height:1.8;overflow-wrap:anywhere}.old{font-family:JostOld,serif}.upstream{font-family:JostFull,serif}.italic{font-style:italic}.bold{font-weight:700}.proof{padding:24px;border:1px solid #c7c5bd;border-radius:8px;margin-top:24px}.proof p{margin:0 0 12px}.note{font:14px/1.7 system-ui;color:#52616e}.status{font:12px monospace}button{padding:8px 14px;border:1px solid #a7adb0;border-radius:4px;cursor:pointer}body.dark{background:#17212c;color:#ece7de}body.dark .note,body.dark .label,body.dark .eyebrow{color:#a9bbc8}body.dark .row,body.dark header,body.dark .proof{border-color:#475361}@media(max-width:650px){main{padding:28px 20px}h1{font-size:42px}.row{grid-template-columns:1fr;gap:4px}.glyphs{font-size:30px}}
+</style>
+<main>
+<header><div class="eyebrow">Wheel of Heaven · Type study 0.1</div><h1>Firmament Sans</h1><p class="intro">Jost’s geometric voice, extended for the words between languages.</p><p class="note">An experimental scholarly derivative of Owen Earl’s Jost. Four static styles. New glyphs remain subject to optical review; this specimen does not replace the website’s body font.</p></header>
+<div class="controls"><label>Reading size <input id="size" type="range" min="16" max="36" value="21"> <output id="size-label">21px</output></label><button id="theme" type="button">Toggle dark background</button><span id="font-status" class="status">Loading fonts…</span></div>
+<h2>The same line, three stages</h2>
+<div class="samples">
+<div class="row"><span class="label">Old site subset</span><div class="old">ʾĕlōhīm · šāmayim · ḥayyīm · ṣedeq · ṭôḇ · ḫ · ṛ · ʿ</div></div>
+<div class="row"><span class="label">Full Jost</span><div class="upstream">ʾĕlōhīm · šāmayim · ḥayyīm · ṣedeq · ṭôḇ · ḫ · ṛ · ʿ</div></div>
+<div class="row"><span class="label">Firmament Sans</span><div>ʾĕlōhīm · šāmayim · ḥayyīm · ṣedeq · ṭôḇ · ḫ · ṛ · ʿ</div></div>
+</div>
+<h2>Marks with a family resemblance</h2>
+<div class="glyphs">h ḥ ḫ H Ḥ Ḫ · s ṣ S Ṣ · t ṭ ṯ T Ṭ Ṯ<br>b ḇ d ḏ k ḵ · r ṛ ṝ l ḷ ḹ · ʾ ʿ ə Ə</div>
+<div class="samples proof">
+<p>The reading moves between ʾĕlōhīm and šāmayim, between ḥayyīm and ṣedeq. A dot beneath a letter should belong to the same voice as the sentence around it.</p>
+<p class="italic">Italic: ʾĕlōhīm · šāmayim · ḥayyīm · ṭôḇ · ḫ · ṛ · ṝ · ṃ · ʿ</p>
+<p class="bold">Bold: Ḥ ḥ · Ṣ ṣ · Ṭ ṭ · Ḫ ḫ · Ṃ ṃ · ʾ ʿ ə</p>
+<p class="bold italic">Bold italic: Ḥ ḥ · Ṣ ṣ · Ṭ ṭ · Ḫ ḫ · Ṃ ṃ · ʾ ʿ ə</p>
+</div>
+<h2>Unicode and spacing proofs</h2>
+<div class="samples">
+<div class="row"><span class="label">Precomposed</span><div>ḥ ṣ ṭ ḫ ṛ ṝ Ṃ ḗ ṓ</div></div>
+<div class="row"><span class="label">Decomposed</span><div>h&#x323; s&#x323; t&#x323; h&#x32e; r&#x323; r&#x323;&#x304; M&#x323; e&#x304;&#x301; o&#x304;&#x301;</div></div>
+<div class="row"><span class="label">Mark attachment</span><div>q&#x323; x&#x323; z&#x32e; Q&#x323; X&#x323; Z&#x32e;</div></div>
+<div class="row"><span class="label">Ordinary text</span><div>AVATAR · To Wa · The heavens and the earth. · Привет мир.</div></div>
+</div>
+<p class="note">The comparison intentionally uses serif fallback to make coverage gaps visible. Other IPA, Egyptological letters, unrestricted accent stacking, and variable-font output remain future work. Corpus examples are terms, not quotations.</p>
+<p class="note"><a href="../audit/README.md">Corpus audit</a> · <a href="../audit/validation.json">Shaping checks</a> · <a href="https://github.com/wheelofheaven/firmament-sans">Source and license</a></p>
+</main>
+<script>
+const slider=document.querySelector('#size');slider.addEventListener('input',()=>{document.documentElement.style.setProperty('--sample-size',`${slider.value}px`);document.querySelector('#size-label').textContent=`${slider.value}px`});document.querySelector('#theme').addEventListener('click',()=>document.body.classList.toggle('dark'));
+Promise.all([document.fonts.load('21px Firmament'),document.fonts.load('italic 21px Firmament'),document.fonts.load('700 21px Firmament'),document.fonts.load('italic 700 21px Firmament'),document.fonts.load('21px JostFull'),document.fonts.load('21px JostOld')]).then(()=>document.querySelector('#font-status').textContent='All six font faces loaded').catch(()=>document.querySelector('#font-status').textContent='Font loading failed');
+</script>
+</html>

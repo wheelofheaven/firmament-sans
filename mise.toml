@@ -1,0 +1,17 @@
+[tools]
+python = "3.13"
+
+[tasks.setup]
+run = "python -m venv .venv && .venv/bin/pip install -r scholar/requirements.txt"
+
+[tasks.build]
+run = ".venv/bin/python scholar/scripts/build.py"
+
+[tasks.check]
+run = ".venv/bin/python scholar/scripts/check.py"
+
+[tasks.audit]
+run = ".venv/bin/python scholar/scripts/audit.py --site ../www.wheelofheaven.world"
+
+[tasks.preview]
+run = "python -m http.server 18289 --bind 127.0.0.1 --directory scholar"
