@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://firmament.wheelofheaven.world/">
+    <img src="docs/images/brandmark.svg" width="80" alt="Firmament brandmark: an italic f with a rust-coloured dot">
+  </a>
+</p>
+<p align="center">
+  <a href="https://firmament.wheelofheaven.world/">
+    <img src="docs/images/brandtype.svg" width="720" alt="Firmament.">
+  </a>
+</p>
+
 # Firmament Sans
 
 **Yesterday’s clarity. Tomorrow’s possibilities.**
@@ -10,6 +21,14 @@ The spirit of 1920s German design, extended for the knowledge we pass forward.
 **Status: 0.1 optical-review pilot.** Four static styles: Regular, Italic, Bold, and Bold Italic, in TTF and WOFF2.
 584 Unicode mappings per style, including 60 scholarly additions to full Jost.
 The [dedicated showcase](https://firmament.wheelofheaven.world/) uses Firmament; adoption on the main Wheel of Heaven website is managed separately.
+
+[![The Firmament showcase: Yesterday’s clarity. Tomorrow’s possibilities.](docs/images/showcase.jpg)](https://firmament.wheelofheaven.world/)
+
+| Set your own words | Explore the scholarly additions |
+| --- | --- |
+| [![Interactive typesetter showing Form follows function. Knowledge travels further.](docs/images/typesetter.jpg)](https://firmament.wheelofheaven.world/#typesetter) | [![Character explorer showing scholarly letters and h with a dot below](docs/images/characters.jpg)](https://firmament.wheelofheaven.world/#characters) |
+
+*Screenshots of the [live specimen](https://firmament.wheelofheaven.world/). [Artwork and capture notes](docs/images/README.md).*
 
 ## Form follows function
 
