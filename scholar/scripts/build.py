@@ -9,6 +9,7 @@ import hashlib
 import json
 import math
 from pathlib import Path
+import re
 import unicodedata as ud
 
 from fontTools.feaLib.builder import addOpenTypeFeaturesFromString
@@ -232,6 +233,12 @@ def main():
             report[style] = {'added': {f'U+{cp:04X}': chr(cp) for cp in sorted(added)}, 'total_codepoints': len(font.getBestCmap())}
             print(style, len(added), 'added characters')
     (ROOT/'audit/build.json').write_text(json.dumps(report, indent=2, ensure_ascii=False)+'\n')
+    specimen = ROOT/'specimen/index.html'
+    html = specimen.read_text()
+    for path in (ROOT/'fonts').glob('*.woff2'):
+        digest = hashlib.sha256(path.read_bytes()).hexdigest()[:12]
+        html = re.sub(re.escape('../fonts/' + path.name) + r'(?:\?v=[a-f0-9]+)?', '../fonts/' + path.name + '?v=' + digest, html)
+    specimen.write_text(html)
 
 
 if __name__ == '__main__':
