@@ -1,10 +1,29 @@
 # Firmament Sans
 
+**Yesterday’s clarity. Tomorrow’s possibilities.**
+
 A scholarly extension of **Jost**, the geometric sans-serif designed by **Owen Earl / indestructible type**.
-Built for Latin transliteration in the [Wheel of Heaven](https://www.wheelofheaven.world) reading corpus.
+The spirit of 1920s German design, extended for the knowledge we pass forward.
+
+[Explore the typeface](https://firmament.wheelofheaven.world/) · [Download the family](https://firmament.wheelofheaven.world/downloads/FirmamentSans-0.1.zip) · [Design story](https://firmament.wheelofheaven.world/#story) · [Script study](https://github.com/wheelofheaven/firmament.wheelofheaven.world/blob/main/docs/script-expansion.md)
 
 **Status: 0.1 optical-review pilot.** Four static styles: Regular, Italic, Bold, and Bold Italic, in TTF and WOFF2.
-The website currently uses full upstream Jost; Firmament Sans is a separate specimen until its new glyphs have been reviewed.
+584 Unicode mappings per style, including 60 scholarly additions to full Jost.
+The [dedicated showcase](https://firmament.wheelofheaven.world/) uses Firmament; adoption on the main Wheel of Heaven website is managed separately.
+
+## Form follows function
+
+Jost brings the spirit of Futura into contemporary use; Firmament carries that approach into scholarly reading.
+Our wider outlook draws on three distinct currents of 1920s Germany: the Bauhaus’s practical design experiments, the New Typography’s organisation of information, and New Objectivity’s close attention to its subject.
+The [public design story](https://firmament.wheelofheaven.world/#story) links the historical sources and distinguishes them from our contemporary interpretation.
+
+We imagine a future in which knowledge is easier to share, study, and question.
+For us, the best way to pass it from one generation to the next begins with form following function: readable letters, visible distinctions, and tools that others can inspect and improve.
+A macron and a dot below a consonant each have a job to do.
+Their place in the typeface follows from that purpose.
+
+Firmament began with the essays and etymologies of [Wheel of Heaven](https://www.wheelofheaven.world/).
+Our feet stay on the baseline; our eyes stay on the stars.
 
 ## What the pilot adds
 
@@ -21,6 +40,9 @@ Precomposed additions and their canonical decompositions are checked with HarfBu
 The first build is deliberately static; it does not extend the upstream variable fonts.
 
 ## Try it
+
+The [live one-page specimen](https://firmament.wheelofheaven.world/) includes an editable typesetter, a searchable character inventory, four-style proofs, multilingual reading samples, and licensed downloads.
+Its Zola source lives in [firmament.wheelofheaven.world](https://github.com/wheelofheaven/firmament.wheelofheaven.world).
 
 Download the four `FirmamentSans-*.ttf` or `FirmamentSans-*.woff2` files from [scholar/fonts](scholar/fonts).
 The files named `Jost-*` in the same directory are full-coverage upstream comparison builds, not renamed derivatives.
@@ -63,8 +85,24 @@ Refresh with `mise run audit` when the website is checked out alongside this rep
 - Broader kerning review for new letters; existing upstream sample shaping is regression-checked.
 - Variable-font masters and interpolation if a full variable release is desired.
 
-Hebrew, Greek, cuneiform, and East Asian scripts remain separate script-font responsibilities.
 No glyphs have been borrowed from an unrelated typeface.
+
+## Beyond Latin and Cyrillic
+
+The proposed direction is a coordinated family that respects how each script is read.
+These are evaluation priorities, not features included in 0.1:
+
+| Script | Proposed route |
+| --- | --- |
+| Greek | First original extension, including polytonic accents and native-reader review |
+| Hebrew | Dedicated companion, with vowel points, cantillation, and mixed-direction proofs |
+| Arabic | Specialist-led companion, with contextual joining and mark positioning |
+| Cuneiform | Established scholarly companion before considering a bespoke sign design |
+| CJK | Regional Chinese, Japanese, and Korean companions; evaluate Source Han Sans / Noto Sans CJK |
+
+Use reviewed existing companions to provide reliable coverage while original designs develop.
+Read the [full feasibility study](https://github.com/wheelofheaven/firmament.wheelofheaven.world/blob/main/docs/script-expansion.md) for corpus evidence, candidate families, relative effort, and release gates.
+Form should follow the function of each script, language, and reader.
 
 ## Source and provenance
 
