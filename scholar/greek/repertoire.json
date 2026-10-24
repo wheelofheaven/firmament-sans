@@ -1,0 +1,3081 @@
+{
+ "title": "Firmament Greek — observed repertoire",
+ "generated_from": "scholar/audit/coverage.json (corpus audit, 2026-10-22)",
+ "note": "Observed characters are the test floor, not the design target. The target repertoire is the complete Greek and Coptic letters (U+0370–03FF, Greek letters only) and all of Greek Extended (U+1F00–1FFF), plus combining breathings, accents, dialytika and ypogegrammeni for decomposed input. Coptic letters and mathematical Greek symbols are out of scope.",
+ "contract": {
+  "upm": 1000,
+  "x_height": 460,
+  "cap_height": 700,
+  "ascender": 1070,
+  "descender": -375,
+  "stem_400": 80,
+  "stem_700": 152,
+  "colour_400_per_mille": 184.6,
+  "colour_700_per_mille": 283.9,
+  "source": "firmament.wheelofheaven.world/static/assets/companions.json"
+ },
+ "observed": {
+  "distinct": 174,
+  "occurrences": 283346,
+  "by_block": {
+   "Greek and Coptic": 64,
+   "Greek Extended": 110
+  }
+ },
+ "characters": [
+  {
+   "codepoint": "U+0390",
+   "character": "ΐ",
+   "name": "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS",
+   "count": 29,
+   "nfd": "U+03B9 U+0308 U+0301",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 20
+   },
+   "example": "content/de/wiki/plurality-of-gods.md"
+  },
+  {
+   "codepoint": "U+0391",
+   "character": "Α",
+   "name": "GREEK CAPITAL LETTER ALPHA",
+   "count": 81,
+   "nfd": null,
+   "scopes": {
+    "library-json": 81
+   },
+   "example": "data/library/acts-woh/_meta.json"
+  },
+  {
+   "codepoint": "U+0392",
+   "character": "Β",
+   "name": "GREEK CAPITAL LETTER BETA",
+   "count": 97,
+   "nfd": null,
+   "scopes": {
+    "library-json": 97
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+0393",
+   "character": "Γ",
+   "name": "GREEK CAPITAL LETTER GAMMA",
+   "count": 299,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 13,
+    "markdown:es": 13,
+    "markdown:fr": 13,
+    "markdown:he": 13,
+    "markdown:ja": 13,
+    "markdown:ko": 13,
+    "markdown:ru": 13,
+    "markdown:en": 9,
+    "markdown:zh": 13,
+    "markdown:zh-Hant": 13,
+    "library-json": 173
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+0394",
+   "character": "Δ",
+   "name": "GREEK CAPITAL LETTER DELTA",
+   "count": 288,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 11,
+    "markdown:es": 11,
+    "markdown:fr": 11,
+    "markdown:he": 11,
+    "markdown:ja": 11,
+    "markdown:ko": 11,
+    "markdown:ru": 11,
+    "markdown:en": 4,
+    "markdown:zh": 11,
+    "markdown:zh-Hant": 11,
+    "library-json": 185
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+0395",
+   "character": "Ε",
+   "name": "GREEK CAPITAL LETTER EPSILON",
+   "count": 120,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 93
+   },
+   "example": "content/de/wiki/adam-and-eve.md"
+  },
+  {
+   "codepoint": "U+0396",
+   "character": "Ζ",
+   "name": "GREEK CAPITAL LETTER ZETA",
+   "count": 119,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 2,
+    "markdown:es": 2,
+    "markdown:fr": 2,
+    "markdown:he": 2,
+    "markdown:ja": 2,
+    "markdown:ko": 2,
+    "markdown:ru": 2,
+    "markdown:en": 2,
+    "markdown:zh": 2,
+    "markdown:zh-Hant": 2,
+    "library-json": 99
+   },
+   "example": "content/de/sources/_generated/avesta.md"
+  },
+  {
+   "codepoint": "U+0397",
+   "character": "Η",
+   "name": "GREEK CAPITAL LETTER ETA",
+   "count": 21,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 11
+   },
+   "example": "content/de/wiki/elijah.md"
+  },
+  {
+   "codepoint": "U+0398",
+   "character": "Θ",
+   "name": "GREEK CAPITAL LETTER THETA",
+   "count": 105,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 2,
+    "markdown:es": 2,
+    "markdown:fr": 2,
+    "markdown:he": 2,
+    "markdown:ja": 2,
+    "markdown:ko": 2,
+    "markdown:ru": 2,
+    "markdown:en": 2,
+    "markdown:zh": 2,
+    "markdown:zh-Hant": 2,
+    "library-json": 85
+   },
+   "example": "content/de/wiki/doubled-signature.md"
+  },
+  {
+   "codepoint": "U+0399",
+   "character": "Ι",
+   "name": "GREEK CAPITAL LETTER IOTA",
+   "count": 47,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 37
+   },
+   "example": "content/de/wiki/doubled-signature.md"
+  },
+  {
+   "codepoint": "U+039A",
+   "character": "Κ",
+   "name": "GREEK CAPITAL LETTER KAPPA",
+   "count": 672,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:en": 1,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 644
+   },
+   "example": "content/de/wiki/apocalypse.md"
+  },
+  {
+   "codepoint": "U+039B",
+   "character": "Λ",
+   "name": "GREEK CAPITAL LETTER LAMDA",
+   "count": 67,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 57
+   },
+   "example": "content/de/wiki/fractal-cosmology.md"
+  },
+  {
+   "codepoint": "U+039C",
+   "character": "Μ",
+   "name": "GREEK CAPITAL LETTER MU",
+   "count": 325,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 9,
+    "markdown:es": 9,
+    "markdown:fr": 9,
+    "markdown:he": 9,
+    "markdown:ja": 9,
+    "markdown:ko": 9,
+    "markdown:ru": 9,
+    "markdown:en": 6,
+    "markdown:zh": 9,
+    "markdown:zh-Hant": 9,
+    "library-json": 238
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+039D",
+   "character": "Ν",
+   "name": "GREEK CAPITAL LETTER NU",
+   "count": 195,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 9,
+    "markdown:es": 9,
+    "markdown:fr": 9,
+    "markdown:he": 9,
+    "markdown:ja": 9,
+    "markdown:ko": 9,
+    "markdown:ru": 9,
+    "markdown:en": 4,
+    "markdown:zh": 9,
+    "markdown:zh-Hant": 9,
+    "library-json": 110
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+039E",
+   "character": "Ξ",
+   "name": "GREEK CAPITAL LETTER XI",
+   "count": 6,
+   "nfd": null,
+   "scopes": {
+    "library-json": 6
+   },
+   "example": "data/library/acts-woh/_meta.json"
+  },
+  {
+   "codepoint": "U+039F",
+   "character": "Ο",
+   "name": "GREEK CAPITAL LETTER OMICRON",
+   "count": 157,
+   "nfd": null,
+   "scopes": {
+    "library-json": 157
+   },
+   "example": "data/library/acts-woh/_meta.json"
+  },
+  {
+   "codepoint": "U+03A0",
+   "character": "Π",
+   "name": "GREEK CAPITAL LETTER PI",
+   "count": 366,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 7,
+    "markdown:es": 7,
+    "markdown:fr": 7,
+    "markdown:he": 7,
+    "markdown:ja": 7,
+    "markdown:ko": 7,
+    "markdown:ru": 7,
+    "markdown:en": 4,
+    "markdown:zh": 7,
+    "markdown:zh-Hant": 7,
+    "library-json": 299
+   },
+   "example": "content/de/wiki/elohim-home-planet.md"
+  },
+  {
+   "codepoint": "U+03A1",
+   "character": "Ρ",
+   "name": "GREEK CAPITAL LETTER RHO",
+   "count": 12,
+   "nfd": null,
+   "scopes": {
+    "library-json": 12
+   },
+   "example": "data/library/acts-woh/_meta.json"
+  },
+  {
+   "codepoint": "U+03A3",
+   "character": "Σ",
+   "name": "GREEK CAPITAL LETTER SIGMA",
+   "count": 257,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 4,
+    "markdown:es": 4,
+    "markdown:fr": 4,
+    "markdown:he": 4,
+    "markdown:ja": 4,
+    "markdown:ko": 4,
+    "markdown:ru": 4,
+    "markdown:en": 4,
+    "markdown:zh": 4,
+    "markdown:zh-Hant": 4,
+    "library-json": 217
+   },
+   "example": "content/de/wiki/doubled-signature.md"
+  },
+  {
+   "codepoint": "U+03A4",
+   "character": "Τ",
+   "name": "GREEK CAPITAL LETTER TAU",
+   "count": 292,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:en": 2,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 281
+   },
+   "example": "content/de/wiki/theomachy.md"
+  },
+  {
+   "codepoint": "U+03A5",
+   "character": "Υ",
+   "name": "GREEK CAPITAL LETTER UPSILON",
+   "count": 54,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 2,
+    "markdown:es": 2,
+    "markdown:fr": 2,
+    "markdown:he": 2,
+    "markdown:ja": 2,
+    "markdown:ko": 2,
+    "markdown:ru": 2,
+    "markdown:en": 2,
+    "markdown:zh": 2,
+    "markdown:zh-Hant": 2,
+    "library-json": 34
+   },
+   "example": "content/de/wiki/doubled-signature.md"
+  },
+  {
+   "codepoint": "U+03A6",
+   "character": "Φ",
+   "name": "GREEK CAPITAL LETTER PHI",
+   "count": 75,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 65
+   },
+   "example": "content/de/wiki/lucifer.md"
+  },
+  {
+   "codepoint": "U+03A7",
+   "character": "Χ",
+   "name": "GREEK CAPITAL LETTER CHI",
+   "count": 166,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 5,
+    "markdown:es": 5,
+    "markdown:fr": 5,
+    "markdown:he": 5,
+    "markdown:ja": 5,
+    "markdown:ko": 5,
+    "markdown:ru": 5,
+    "markdown:en": 5,
+    "markdown:zh": 5,
+    "markdown:zh-Hant": 5,
+    "library-json": 116
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+03A8",
+   "character": "Ψ",
+   "name": "GREEK CAPITAL LETTER PSI",
+   "count": 8,
+   "nfd": null,
+   "scopes": {
+    "library-json": 8
+   },
+   "example": "data/library/catalog.json"
+  },
+  {
+   "codepoint": "U+03A9",
+   "character": "Ω",
+   "name": "GREEK CAPITAL LETTER OMEGA",
+   "count": 5,
+   "nfd": null,
+   "scopes": {
+    "library-json": 5
+   },
+   "example": "data/library/acts-woh/_meta.json"
+  },
+  {
+   "codepoint": "U+03AC",
+   "character": "ά",
+   "name": "GREEK SMALL LETTER ALPHA WITH TONOS",
+   "count": 3559,
+   "nfd": "U+03B1 U+0301",
+   "scopes": {
+    "markdown:de": 66,
+    "markdown:es": 66,
+    "markdown:fr": 66,
+    "markdown:he": 66,
+    "markdown:ja": 66,
+    "markdown:ko": 66,
+    "markdown:ru": 66,
+    "markdown:en": 43,
+    "markdown:zh": 66,
+    "markdown:zh-Hant": 66,
+    "library-json": 2922
+   },
+   "example": "content/de/sources/_generated/avesta.md"
+  },
+  {
+   "codepoint": "U+03AD",
+   "character": "έ",
+   "name": "GREEK SMALL LETTER EPSILON WITH TONOS",
+   "count": 4573,
+   "nfd": "U+03B5 U+0301",
+   "scopes": {
+    "markdown:de": 64,
+    "markdown:es": 64,
+    "markdown:fr": 64,
+    "markdown:he": 64,
+    "markdown:ja": 64,
+    "markdown:ko": 64,
+    "markdown:ru": 64,
+    "markdown:en": 42,
+    "markdown:zh": 64,
+    "markdown:zh-Hant": 64,
+    "library-json": 3955
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03AE",
+   "character": "ή",
+   "name": "GREEK SMALL LETTER ETA WITH TONOS",
+   "count": 2016,
+   "nfd": "U+03B7 U+0301",
+   "scopes": {
+    "markdown:en": 30,
+    "markdown:de": 50,
+    "markdown:es": 50,
+    "markdown:fr": 48,
+    "markdown:he": 48,
+    "markdown:ja": 48,
+    "markdown:ko": 48,
+    "markdown:ru": 48,
+    "markdown:zh": 48,
+    "markdown:zh-Hant": 48,
+    "library-json": 1550
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03AF",
+   "character": "ί",
+   "name": "GREEK SMALL LETTER IOTA WITH TONOS",
+   "count": 4217,
+   "nfd": "U+03B9 U+0301",
+   "scopes": {
+    "markdown:en": 35,
+    "markdown:de": 56,
+    "markdown:es": 56,
+    "markdown:fr": 55,
+    "markdown:he": 55,
+    "markdown:ja": 55,
+    "markdown:ko": 55,
+    "markdown:ru": 55,
+    "markdown:zh": 55,
+    "markdown:zh-Hant": 55,
+    "library-json": 3685
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03B0",
+   "character": "ΰ",
+   "name": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS",
+   "count": 2,
+   "nfd": "U+03C5 U+0308 U+0301",
+   "scopes": {
+    "library-json": 2
+   },
+   "example": "data/library/theogony-woh/chapter-1.json"
+  },
+  {
+   "codepoint": "U+03B1",
+   "character": "α",
+   "name": "GREEK SMALL LETTER ALPHA",
+   "count": 21898,
+   "nfd": null,
+   "scopes": {
+    "markdown:en": 226,
+    "markdown:de": 321,
+    "markdown:es": 321,
+    "markdown:fr": 316,
+    "markdown:he": 316,
+    "markdown:ja": 316,
+    "markdown:ko": 316,
+    "markdown:ru": 316,
+    "markdown:zh": 316,
+    "markdown:zh-Hant": 317,
+    "library-json": 18817
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03B2",
+   "character": "β",
+   "name": "GREEK SMALL LETTER BETA",
+   "count": 1772,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 43,
+    "markdown:es": 43,
+    "markdown:fr": 43,
+    "markdown:he": 43,
+    "markdown:ja": 43,
+    "markdown:ko": 43,
+    "markdown:ru": 43,
+    "markdown:en": 28,
+    "markdown:zh": 43,
+    "markdown:zh-Hant": 43,
+    "library-json": 1357
+   },
+   "example": "content/de/sources/_generated/book-of-enoch.md"
+  },
+  {
+   "codepoint": "U+03B3",
+   "character": "γ",
+   "name": "GREEK SMALL LETTER GAMMA",
+   "count": 4984,
+   "nfd": null,
+   "scopes": {
+    "markdown:en": 66,
+    "markdown:de": 94,
+    "markdown:es": 94,
+    "markdown:fr": 94,
+    "markdown:he": 94,
+    "markdown:ja": 94,
+    "markdown:ko": 94,
+    "markdown:ru": 94,
+    "markdown:zh": 94,
+    "markdown:zh-Hant": 94,
+    "library-json": 4072
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03B4",
+   "character": "δ",
+   "name": "GREEK SMALL LETTER DELTA",
+   "count": 5833,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 77,
+    "markdown:es": 77,
+    "markdown:fr": 76,
+    "markdown:he": 76,
+    "markdown:ja": 76,
+    "markdown:ko": 76,
+    "markdown:ru": 76,
+    "markdown:en": 53,
+    "markdown:zh": 76,
+    "markdown:zh-Hant": 76,
+    "library-json": 5094
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03B5",
+   "character": "ε",
+   "name": "GREEK SMALL LETTER EPSILON",
+   "count": 15283,
+   "nfd": null,
+   "scopes": {
+    "markdown:en": 117,
+    "markdown:de": 175,
+    "markdown:es": 175,
+    "markdown:fr": 173,
+    "markdown:he": 173,
+    "markdown:ja": 173,
+    "markdown:ko": 173,
+    "markdown:ru": 173,
+    "markdown:zh": 173,
+    "markdown:zh-Hant": 173,
+    "library-json": 13605
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03B6",
+   "character": "ζ",
+   "name": "GREEK SMALL LETTER ZETA",
+   "count": 573,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 13,
+    "markdown:es": 13,
+    "markdown:fr": 12,
+    "markdown:he": 12,
+    "markdown:ja": 12,
+    "markdown:ko": 12,
+    "markdown:ru": 12,
+    "markdown:en": 13,
+    "markdown:zh": 12,
+    "markdown:zh-Hant": 12,
+    "library-json": 450
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03B7",
+   "character": "η",
+   "name": "GREEK SMALL LETTER ETA",
+   "count": 4550,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 67,
+    "markdown:es": 67,
+    "markdown:fr": 65,
+    "markdown:he": 65,
+    "markdown:ja": 65,
+    "markdown:ko": 65,
+    "markdown:ru": 65,
+    "markdown:en": 45,
+    "markdown:zh": 65,
+    "markdown:zh-Hant": 65,
+    "library-json": 3916
+   },
+   "example": "content/de/sources/_generated/avesta.md"
+  },
+  {
+   "codepoint": "U+03B8",
+   "character": "θ",
+   "name": "GREEK SMALL LETTER THETA",
+   "count": 4689,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 68,
+    "markdown:es": 68,
+    "markdown:fr": 67,
+    "markdown:he": 67,
+    "markdown:ja": 67,
+    "markdown:ko": 67,
+    "markdown:ru": 67,
+    "markdown:en": 43,
+    "markdown:zh": 67,
+    "markdown:zh-Hant": 67,
+    "library-json": 4041
+   },
+   "example": "content/de/sources/_generated/avesta.md"
+  },
+  {
+   "codepoint": "U+03B9",
+   "character": "ι",
+   "name": "GREEK SMALL LETTER IOTA",
+   "count": 11141,
+   "nfd": null,
+   "scopes": {
+    "markdown:en": 100,
+    "markdown:de": 156,
+    "markdown:es": 156,
+    "markdown:fr": 154,
+    "markdown:he": 154,
+    "markdown:ja": 154,
+    "markdown:ko": 154,
+    "markdown:ru": 154,
+    "markdown:zh": 154,
+    "markdown:zh-Hant": 154,
+    "library-json": 9651
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03BA",
+   "character": "κ",
+   "name": "GREEK SMALL LETTER KAPPA",
+   "count": 9722,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 145,
+    "markdown:es": 145,
+    "markdown:fr": 141,
+    "markdown:he": 141,
+    "markdown:ja": 141,
+    "markdown:ko": 141,
+    "markdown:ru": 141,
+    "markdown:en": 101,
+    "markdown:zh": 141,
+    "markdown:zh-Hant": 141,
+    "library-json": 8344
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03BB",
+   "character": "λ",
+   "name": "GREEK SMALL LETTER LAMDA",
+   "count": 7503,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 118,
+    "markdown:es": 118,
+    "markdown:fr": 116,
+    "markdown:he": 116,
+    "markdown:ja": 116,
+    "markdown:ko": 116,
+    "markdown:ru": 116,
+    "markdown:en": 90,
+    "markdown:zh": 116,
+    "markdown:zh-Hant": 116,
+    "library-json": 6365
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03BC",
+   "character": "μ",
+   "name": "GREEK SMALL LETTER MU",
+   "count": 7557,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 121,
+    "markdown:es": 121,
+    "markdown:fr": 119,
+    "markdown:he": 119,
+    "markdown:ja": 119,
+    "markdown:ko": 119,
+    "markdown:en": 81,
+    "markdown:ru": 119,
+    "markdown:zh": 119,
+    "markdown:zh-Hant": 119,
+    "library-json": 6401
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03BD",
+   "character": "ν",
+   "name": "GREEK SMALL LETTER NU",
+   "count": 23303,
+   "nfd": null,
+   "scopes": {
+    "markdown:en": 202,
+    "markdown:de": 272,
+    "markdown:es": 272,
+    "markdown:fr": 271,
+    "markdown:he": 271,
+    "markdown:ja": 271,
+    "markdown:ko": 271,
+    "markdown:ru": 271,
+    "markdown:zh": 271,
+    "markdown:zh-Hant": 271,
+    "library-json": 20660
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03BE",
+   "character": "ξ",
+   "name": "GREEK SMALL LETTER XI",
+   "count": 1045,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 22,
+    "markdown:es": 22,
+    "markdown:fr": 22,
+    "markdown:he": 22,
+    "markdown:ja": 22,
+    "markdown:ko": 22,
+    "markdown:ru": 22,
+    "markdown:en": 12,
+    "markdown:zh": 22,
+    "markdown:zh-Hant": 22,
+    "library-json": 835
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+03BF",
+   "character": "ο",
+   "name": "GREEK SMALL LETTER OMICRON",
+   "count": 18825,
+   "nfd": null,
+   "scopes": {
+    "markdown:en": 197,
+    "markdown:de": 277,
+    "markdown:es": 277,
+    "markdown:fr": 272,
+    "markdown:he": 272,
+    "markdown:ja": 272,
+    "markdown:ko": 272,
+    "markdown:ru": 272,
+    "markdown:zh": 272,
+    "markdown:zh-Hant": 272,
+    "library-json": 16170
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03C0",
+   "character": "π",
+   "name": "GREEK SMALL LETTER PI",
+   "count": 8307,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 129,
+    "markdown:es": 129,
+    "markdown:fr": 128,
+    "markdown:he": 128,
+    "markdown:ja": 128,
+    "markdown:ko": 128,
+    "markdown:ru": 130,
+    "markdown:en": 103,
+    "markdown:zh": 128,
+    "markdown:zh-Hant": 128,
+    "library-json": 7048
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03C1",
+   "character": "ρ",
+   "name": "GREEK SMALL LETTER RHO",
+   "count": 11055,
+   "nfd": null,
+   "scopes": {
+    "markdown:en": 107,
+    "markdown:de": 172,
+    "markdown:es": 172,
+    "markdown:fr": 170,
+    "markdown:he": 170,
+    "markdown:ja": 170,
+    "markdown:ko": 170,
+    "markdown:ru": 170,
+    "markdown:zh": 170,
+    "markdown:zh-Hant": 170,
+    "library-json": 9414
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03C2",
+   "character": "ς",
+   "name": "GREEK SMALL LETTER FINAL SIGMA",
+   "count": 11341,
+   "nfd": null,
+   "scopes": {
+    "markdown:en": 126,
+    "markdown:de": 196,
+    "markdown:es": 196,
+    "markdown:fr": 192,
+    "markdown:he": 192,
+    "markdown:ja": 192,
+    "markdown:ko": 192,
+    "markdown:ru": 192,
+    "markdown:zh": 192,
+    "markdown:zh-Hant": 192,
+    "library-json": 9479
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03C3",
+   "character": "σ",
+   "name": "GREEK SMALL LETTER SIGMA",
+   "count": 9964,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 145,
+    "markdown:es": 145,
+    "markdown:fr": 143,
+    "markdown:he": 143,
+    "markdown:ja": 143,
+    "markdown:ko": 143,
+    "markdown:en": 94,
+    "markdown:ru": 143,
+    "markdown:zh": 143,
+    "markdown:zh-Hant": 143,
+    "library-json": 8579
+   },
+   "example": "content/de/sources/_generated/avesta.md"
+  },
+  {
+   "codepoint": "U+03C4",
+   "character": "τ",
+   "name": "GREEK SMALL LETTER TAU",
+   "count": 19337,
+   "nfd": null,
+   "scopes": {
+    "markdown:en": 170,
+    "markdown:de": 206,
+    "markdown:es": 206,
+    "markdown:fr": 205,
+    "markdown:he": 205,
+    "markdown:ja": 205,
+    "markdown:ko": 205,
+    "markdown:ru": 205,
+    "markdown:zh": 205,
+    "markdown:zh-Hant": 205,
+    "library-json": 17320
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+03C5",
+   "character": "υ",
+   "name": "GREEK SMALL LETTER UPSILON",
+   "count": 4779,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 76,
+    "markdown:es": 76,
+    "markdown:fr": 75,
+    "markdown:he": 75,
+    "markdown:ja": 75,
+    "markdown:ko": 75,
+    "markdown:en": 58,
+    "markdown:ru": 75,
+    "markdown:zh": 75,
+    "markdown:zh-Hant": 75,
+    "library-json": 4044
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03C6",
+   "character": "φ",
+   "name": "GREEK SMALL LETTER PHI",
+   "count": 2427,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 56,
+    "markdown:es": 56,
+    "markdown:fr": 55,
+    "markdown:he": 55,
+    "markdown:ja": 55,
+    "markdown:ko": 55,
+    "markdown:ru": 55,
+    "markdown:en": 28,
+    "markdown:zh": 55,
+    "markdown:zh-Hant": 55,
+    "library-json": 1902
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03C7",
+   "character": "χ",
+   "name": "GREEK SMALL LETTER CHI",
+   "count": 2121,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 42,
+    "markdown:es": 42,
+    "markdown:fr": 41,
+    "markdown:he": 41,
+    "markdown:ja": 41,
+    "markdown:ko": 41,
+    "markdown:ru": 41,
+    "markdown:en": 26,
+    "markdown:zh": 41,
+    "markdown:zh-Hant": 41,
+    "library-json": 1724
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03C8",
+   "character": "ψ",
+   "name": "GREEK SMALL LETTER PSI",
+   "count": 515,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 17,
+    "markdown:es": 17,
+    "markdown:fr": 17,
+    "markdown:he": 17,
+    "markdown:ja": 17,
+    "markdown:ko": 17,
+    "markdown:ru": 17,
+    "markdown:en": 12,
+    "markdown:zh": 17,
+    "markdown:zh-Hant": 17,
+    "library-json": 350
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03C9",
+   "character": "ω",
+   "name": "GREEK SMALL LETTER OMEGA",
+   "count": 3548,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 72,
+    "markdown:es": 72,
+    "markdown:fr": 72,
+    "markdown:he": 72,
+    "markdown:ja": 72,
+    "markdown:ko": 72,
+    "markdown:ru": 72,
+    "markdown:en": 51,
+    "markdown:zh": 72,
+    "markdown:zh-Hant": 72,
+    "library-json": 2849
+   },
+   "example": "content/de/sources/_generated/avesta.md"
+  },
+  {
+   "codepoint": "U+03CA",
+   "character": "ϊ",
+   "name": "GREEK SMALL LETTER IOTA WITH DIALYTIKA",
+   "count": 31,
+   "nfd": "U+03B9 U+0308",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 21
+   },
+   "example": "content/de/wiki/hebrew.md"
+  },
+  {
+   "codepoint": "U+03CB",
+   "character": "ϋ",
+   "name": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA",
+   "count": 10,
+   "nfd": "U+03C5 U+0308",
+   "scopes": {
+    "library-json": 10
+   },
+   "example": "data/library/acts-woh/chapter-15.json"
+  },
+  {
+   "codepoint": "U+03CC",
+   "character": "ό",
+   "name": "GREEK SMALL LETTER OMICRON WITH TONOS",
+   "count": 3184,
+   "nfd": "U+03BF U+0301",
+   "scopes": {
+    "markdown:de": 61,
+    "markdown:es": 61,
+    "markdown:fr": 61,
+    "markdown:he": 61,
+    "markdown:ja": 61,
+    "markdown:ko": 61,
+    "markdown:ru": 61,
+    "markdown:en": 37,
+    "markdown:zh": 61,
+    "markdown:zh-Hant": 61,
+    "library-json": 2598
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03CD",
+   "character": "ύ",
+   "name": "GREEK SMALL LETTER UPSILON WITH TONOS",
+   "count": 1945,
+   "nfd": "U+03C5 U+0301",
+   "scopes": {
+    "markdown:de": 31,
+    "markdown:es": 31,
+    "markdown:fr": 30,
+    "markdown:he": 30,
+    "markdown:ja": 30,
+    "markdown:ko": 30,
+    "markdown:ru": 30,
+    "markdown:en": 20,
+    "markdown:zh": 30,
+    "markdown:zh-Hant": 30,
+    "library-json": 1653
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03CE",
+   "character": "ώ",
+   "name": "GREEK SMALL LETTER OMEGA WITH TONOS",
+   "count": 978,
+   "nfd": "U+03C9 U+0301",
+   "scopes": {
+    "markdown:de": 12,
+    "markdown:es": 12,
+    "markdown:fr": 12,
+    "markdown:he": 12,
+    "markdown:ja": 12,
+    "markdown:ko": 12,
+    "markdown:ru": 12,
+    "markdown:en": 7,
+    "markdown:zh": 12,
+    "markdown:zh-Hant": 12,
+    "library-json": 863
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+03DB",
+   "character": "ϛ",
+   "name": "GREEK SMALL LETTER STIGMA",
+   "count": 94,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 10,
+    "markdown:es": 10,
+    "markdown:fr": 10,
+    "markdown:he": 10,
+    "markdown:ja": 10,
+    "markdown:ko": 10,
+    "markdown:ru": 10,
+    "markdown:en": 4,
+    "markdown:zh": 10,
+    "markdown:zh-Hant": 10
+   },
+   "example": "content/de/wiki/number-of-man.md"
+  },
+  {
+   "codepoint": "U+03DC",
+   "character": "Ϝ",
+   "name": "GREEK LETTER DIGAMMA",
+   "count": 9,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1
+   },
+   "example": "content/de/wiki/number-of-man.md"
+  },
+  {
+   "codepoint": "U+03DF",
+   "character": "ϟ",
+   "name": "GREEK SMALL LETTER KOPPA",
+   "count": 9,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1
+   },
+   "example": "content/de/wiki/number-of-man.md"
+  },
+  {
+   "codepoint": "U+03E1",
+   "character": "ϡ",
+   "name": "GREEK SMALL LETTER SAMPI",
+   "count": 9,
+   "nfd": null,
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1
+   },
+   "example": "content/de/wiki/number-of-man.md"
+  },
+  {
+   "codepoint": "U+1F00",
+   "character": "ἀ",
+   "name": "GREEK SMALL LETTER ALPHA WITH PSILI",
+   "count": 3091,
+   "nfd": "U+03B1 U+0313",
+   "scopes": {
+    "markdown:de": 51,
+    "markdown:es": 51,
+    "markdown:fr": 51,
+    "markdown:he": 51,
+    "markdown:ja": 51,
+    "markdown:ko": 51,
+    "markdown:ru": 51,
+    "markdown:en": 34,
+    "markdown:zh": 51,
+    "markdown:zh-Hant": 51,
+    "library-json": 2598
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F01",
+   "character": "ἁ",
+   "name": "GREEK SMALL LETTER ALPHA WITH DASIA",
+   "count": 174,
+   "nfd": "U+03B1 U+0314",
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:en": 3,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 144
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F02",
+   "character": "ἂ",
+   "name": "GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA",
+   "count": 48,
+   "nfd": "U+03B1 U+0313 U+0300",
+   "scopes": {
+    "library-json": 48
+   },
+   "example": "data/library/acts-woh/chapter-15.json"
+  },
+  {
+   "codepoint": "U+1F03",
+   "character": "ἃ",
+   "name": "GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA",
+   "count": 37,
+   "nfd": "U+03B1 U+0314 U+0300",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 27
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F04",
+   "character": "ἄ",
+   "name": "GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA",
+   "count": 729,
+   "nfd": "U+03B1 U+0313 U+0301",
+   "scopes": {
+    "markdown:de": 17,
+    "markdown:es": 17,
+    "markdown:fr": 17,
+    "markdown:he": 17,
+    "markdown:ja": 17,
+    "markdown:ko": 17,
+    "markdown:ru": 17,
+    "markdown:en": 14,
+    "markdown:zh": 17,
+    "markdown:zh-Hant": 17,
+    "library-json": 562
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F05",
+   "character": "ἅ",
+   "name": "GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA",
+   "count": 113,
+   "nfd": "U+03B1 U+0314 U+0301",
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:en": 3,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 83
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F06",
+   "character": "ἆ",
+   "name": "GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI",
+   "count": 6,
+   "nfd": "U+03B1 U+0313 U+0342",
+   "scopes": {
+    "library-json": 6
+   },
+   "example": "data/library/matthew-woh/chapter-17.json"
+  },
+  {
+   "codepoint": "U+1F08",
+   "character": "Ἀ",
+   "name": "GREEK CAPITAL LETTER ALPHA WITH PSILI",
+   "count": 393,
+   "nfd": "U+0391 U+0313",
+   "scopes": {
+    "markdown:de": 8,
+    "markdown:es": 8,
+    "markdown:fr": 8,
+    "markdown:he": 8,
+    "markdown:ja": 8,
+    "markdown:ko": 8,
+    "markdown:ru": 8,
+    "markdown:en": 3,
+    "markdown:zh": 8,
+    "markdown:zh-Hant": 8,
+    "library-json": 318
+   },
+   "example": "content/de/wiki/abraham.md"
+  },
+  {
+   "codepoint": "U+1F09",
+   "character": "Ἁ",
+   "name": "GREEK CAPITAL LETTER ALPHA WITH DASIA",
+   "count": 12,
+   "nfd": "U+0391 U+0314",
+   "scopes": {
+    "library-json": 12
+   },
+   "example": "data/library/theogony-woh/chapter-1.json"
+  },
+  {
+   "codepoint": "U+1F0C",
+   "character": "Ἄ",
+   "name": "GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA",
+   "count": 64,
+   "nfd": "U+0391 U+0313 U+0301",
+   "scopes": {
+    "library-json": 64
+   },
+   "example": "data/library/acts-woh/chapter-15.json"
+  },
+  {
+   "codepoint": "U+1F0D",
+   "character": "Ἅ",
+   "name": "GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA",
+   "count": 16,
+   "nfd": "U+0391 U+0314 U+0301",
+   "scopes": {
+    "library-json": 16
+   },
+   "example": "data/library/revelation-woh/chapter-4.json"
+  },
+  {
+   "codepoint": "U+1F10",
+   "character": "ἐ",
+   "name": "GREEK SMALL LETTER EPSILON WITH PSILI",
+   "count": 4287,
+   "nfd": "U+03B5 U+0313",
+   "scopes": {
+    "markdown:en": 42,
+    "markdown:de": 44,
+    "markdown:es": 44,
+    "markdown:fr": 44,
+    "markdown:he": 44,
+    "markdown:ja": 44,
+    "markdown:ko": 44,
+    "markdown:ru": 44,
+    "markdown:zh": 44,
+    "markdown:zh-Hant": 44,
+    "library-json": 3849
+   },
+   "example": "content/articles/watchers-and-the-nephilim.md"
+  },
+  {
+   "codepoint": "U+1F11",
+   "character": "ἑ",
+   "name": "GREEK SMALL LETTER EPSILON WITH DASIA",
+   "count": 287,
+   "nfd": "U+03B5 U+0314",
+   "scopes": {
+    "markdown:de": 4,
+    "markdown:es": 4,
+    "markdown:fr": 4,
+    "markdown:he": 4,
+    "markdown:ja": 4,
+    "markdown:ko": 4,
+    "markdown:ru": 4,
+    "markdown:en": 2,
+    "markdown:zh": 4,
+    "markdown:zh-Hant": 4,
+    "library-json": 249
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F13",
+   "character": "ἓ",
+   "name": "GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA",
+   "count": 30,
+   "nfd": "U+03B5 U+0314 U+0300",
+   "scopes": {
+    "library-json": 30
+   },
+   "example": "data/library/book-of-enoch-woh/chapter-10.json"
+  },
+  {
+   "codepoint": "U+1F14",
+   "character": "ἔ",
+   "name": "GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA",
+   "count": 1245,
+   "nfd": "U+03B5 U+0313 U+0301",
+   "scopes": {
+    "markdown:de": 16,
+    "markdown:es": 16,
+    "markdown:fr": 16,
+    "markdown:he": 16,
+    "markdown:ja": 16,
+    "markdown:ko": 16,
+    "markdown:ru": 16,
+    "markdown:en": 14,
+    "markdown:zh": 16,
+    "markdown:zh-Hant": 16,
+    "library-json": 1087
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F15",
+   "character": "ἕ",
+   "name": "GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA",
+   "count": 197,
+   "nfd": "U+03B5 U+0314 U+0301",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 187
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F18",
+   "character": "Ἐ",
+   "name": "GREEK CAPITAL LETTER EPSILON WITH PSILI",
+   "count": 164,
+   "nfd": "U+0395 U+0313",
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:en": 3,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 134
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F19",
+   "character": "Ἑ",
+   "name": "GREEK CAPITAL LETTER EPSILON WITH DASIA",
+   "count": 126,
+   "nfd": "U+0395 U+0314",
+   "scopes": {
+    "markdown:de": 4,
+    "markdown:es": 4,
+    "markdown:fr": 4,
+    "markdown:he": 4,
+    "markdown:ja": 4,
+    "markdown:ko": 4,
+    "markdown:en": 4,
+    "markdown:ru": 4,
+    "markdown:zh": 4,
+    "markdown:zh-Hant": 4,
+    "library-json": 86
+   },
+   "example": "content/de/wiki/hebrew-bible.md"
+  },
+  {
+   "codepoint": "U+1F1C",
+   "character": "Ἔ",
+   "name": "GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA",
+   "count": 60,
+   "nfd": "U+0395 U+0313 U+0301",
+   "scopes": {
+    "markdown:de": 2,
+    "markdown:es": 2,
+    "markdown:fr": 2,
+    "markdown:he": 2,
+    "markdown:ja": 2,
+    "markdown:ko": 2,
+    "markdown:ru": 2,
+    "markdown:zh": 2,
+    "markdown:zh-Hant": 2,
+    "library-json": 42
+   },
+   "example": "content/de/wiki/golden-age.md"
+  },
+  {
+   "codepoint": "U+1F1D",
+   "character": "Ἕ",
+   "name": "GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA",
+   "count": 4,
+   "nfd": "U+0395 U+0314 U+0301",
+   "scopes": {
+    "library-json": 4
+   },
+   "example": "data/library/revelation-woh/chapter-6.json"
+  },
+  {
+   "codepoint": "U+1F20",
+   "character": "ἠ",
+   "name": "GREEK SMALL LETTER ETA WITH PSILI",
+   "count": 227,
+   "nfd": "U+03B7 U+0313",
+   "scopes": {
+    "library-json": 227
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1F21",
+   "character": "ἡ",
+   "name": "GREEK SMALL LETTER ETA WITH DASIA",
+   "count": 641,
+   "nfd": "U+03B7 U+0314",
+   "scopes": {
+    "markdown:de": 17,
+    "markdown:es": 17,
+    "markdown:fr": 15,
+    "markdown:he": 15,
+    "markdown:ja": 15,
+    "markdown:ko": 15,
+    "markdown:ru": 15,
+    "markdown:en": 8,
+    "markdown:zh": 15,
+    "markdown:zh-Hant": 15,
+    "library-json": 494
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F22",
+   "character": "ἢ",
+   "name": "GREEK SMALL LETTER ETA WITH PSILI AND VARIA",
+   "count": 81,
+   "nfd": "U+03B7 U+0313 U+0300",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 71
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F23",
+   "character": "ἣ",
+   "name": "GREEK SMALL LETTER ETA WITH DASIA AND VARIA",
+   "count": 100,
+   "nfd": "U+03B7 U+0314 U+0300",
+   "scopes": {
+    "library-json": 100
+   },
+   "example": "data/library/book-of-enoch-woh/chapter-10.json"
+  },
+  {
+   "codepoint": "U+1F24",
+   "character": "ἤ",
+   "name": "GREEK SMALL LETTER ETA WITH PSILI AND OXIA",
+   "count": 181,
+   "nfd": "U+03B7 U+0313 U+0301",
+   "scopes": {
+    "library-json": 181
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1F25",
+   "character": "ἥ",
+   "name": "GREEK SMALL LETTER ETA WITH DASIA AND OXIA",
+   "count": 45,
+   "nfd": "U+03B7 U+0314 U+0301",
+   "scopes": {
+    "library-json": 45
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1F26",
+   "character": "ἦ",
+   "name": "GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI",
+   "count": 208,
+   "nfd": "U+03B7 U+0313 U+0342",
+   "scopes": {
+    "markdown:de": 2,
+    "markdown:es": 2,
+    "markdown:fr": 2,
+    "markdown:he": 2,
+    "markdown:ja": 2,
+    "markdown:ko": 2,
+    "markdown:ru": 2,
+    "markdown:en": 2,
+    "markdown:zh": 2,
+    "markdown:zh-Hant": 2,
+    "library-json": 188
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F27",
+   "character": "ἧ",
+   "name": "GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI",
+   "count": 22,
+   "nfd": "U+03B7 U+0314 U+0342",
+   "scopes": {
+    "library-json": 22
+   },
+   "example": "data/library/book-of-enoch-woh/chapter-32.json"
+  },
+  {
+   "codepoint": "U+1F28",
+   "character": "Ἠ",
+   "name": "GREEK CAPITAL LETTER ETA WITH PSILI",
+   "count": 67,
+   "nfd": "U+0397 U+0313",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 58
+   },
+   "example": "content/de/wiki/elohim-home-planet.md"
+  },
+  {
+   "codepoint": "U+1F29",
+   "character": "Ἡ",
+   "name": "GREEK CAPITAL LETTER ETA WITH DASIA",
+   "count": 62,
+   "nfd": "U+0397 U+0314",
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 35
+   },
+   "example": "content/de/wiki/golden-age.md"
+  },
+  {
+   "codepoint": "U+1F2D",
+   "character": "Ἥ",
+   "name": "GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA",
+   "count": 30,
+   "nfd": "U+0397 U+0314 U+0301",
+   "scopes": {
+    "library-json": 30
+   },
+   "example": "data/library/theogony-woh/_translation-glossary.json"
+  },
+  {
+   "codepoint": "U+1F2E",
+   "character": "Ἦ",
+   "name": "GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI",
+   "count": 6,
+   "nfd": "U+0397 U+0313 U+0342",
+   "scopes": {
+    "library-json": 6
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1F30",
+   "character": "ἰ",
+   "name": "GREEK SMALL LETTER IOTA WITH PSILI",
+   "count": 1321,
+   "nfd": "U+03B9 U+0313",
+   "scopes": {
+    "markdown:de": 17,
+    "markdown:es": 17,
+    "markdown:fr": 17,
+    "markdown:he": 17,
+    "markdown:ja": 17,
+    "markdown:ko": 17,
+    "markdown:ru": 17,
+    "markdown:en": 11,
+    "markdown:zh": 17,
+    "markdown:zh-Hant": 17,
+    "library-json": 1157
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F31",
+   "character": "ἱ",
+   "name": "GREEK SMALL LETTER IOTA WITH DASIA",
+   "count": 695,
+   "nfd": "U+03B9 U+0314",
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:en": 3,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 665
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F32",
+   "character": "ἲ",
+   "name": "GREEK SMALL LETTER IOTA WITH PSILI AND VARIA",
+   "count": 15,
+   "nfd": "U+03B9 U+0313 U+0300",
+   "scopes": {
+    "library-json": 15
+   },
+   "example": "data/library/theogony-woh/_translation-glossary.json"
+  },
+  {
+   "codepoint": "U+1F33",
+   "character": "ἳ",
+   "name": "GREEK SMALL LETTER IOTA WITH DASIA AND VARIA",
+   "count": 73,
+   "nfd": "U+03B9 U+0314 U+0300",
+   "scopes": {
+    "library-json": 73
+   },
+   "example": "data/library/theogony-woh/_translation-glossary.json"
+  },
+  {
+   "codepoint": "U+1F34",
+   "character": "ἴ",
+   "name": "GREEK SMALL LETTER IOTA WITH PSILI AND OXIA",
+   "count": 156,
+   "nfd": "U+03B9 U+0313 U+0301",
+   "scopes": {
+    "library-json": 156
+   },
+   "example": "data/library/acts-woh/chapter-2.json"
+  },
+  {
+   "codepoint": "U+1F35",
+   "character": "ἵ",
+   "name": "GREEK SMALL LETTER IOTA WITH DASIA AND OXIA",
+   "count": 188,
+   "nfd": "U+03B9 U+0314 U+0301",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 179
+   },
+   "example": "content/de/wiki/plurality-of-gods.md"
+  },
+  {
+   "codepoint": "U+1F36",
+   "character": "ἶ",
+   "name": "GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI",
+   "count": 414,
+   "nfd": "U+03B9 U+0313 U+0342",
+   "scopes": {
+    "markdown:de": 2,
+    "markdown:es": 2,
+    "markdown:fr": 2,
+    "markdown:he": 2,
+    "markdown:ja": 2,
+    "markdown:ko": 2,
+    "markdown:ru": 2,
+    "markdown:en": 2,
+    "markdown:zh": 2,
+    "markdown:zh-Hant": 2,
+    "library-json": 394
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F37",
+   "character": "ἷ",
+   "name": "GREEK SMALL LETTER IOTA WITH DASIA AND PERISPOMENI",
+   "count": 63,
+   "nfd": "U+03B9 U+0314 U+0342",
+   "scopes": {
+    "library-json": 63
+   },
+   "example": "data/library/acts-woh/chapter-15.json"
+  },
+  {
+   "codepoint": "U+1F38",
+   "character": "Ἰ",
+   "name": "GREEK CAPITAL LETTER IOTA WITH PSILI",
+   "count": 423,
+   "nfd": "U+0399 U+0313",
+   "scopes": {
+    "markdown:de": 14,
+    "markdown:es": 14,
+    "markdown:fr": 12,
+    "markdown:he": 12,
+    "markdown:ja": 12,
+    "markdown:ko": 12,
+    "markdown:ru": 12,
+    "markdown:en": 12,
+    "markdown:zh": 12,
+    "markdown:zh-Hant": 12,
+    "library-json": 299
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F39",
+   "character": "Ἱ",
+   "name": "GREEK CAPITAL LETTER IOTA WITH DASIA",
+   "count": 46,
+   "nfd": "U+0399 U+0314",
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:en": 1,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 18
+   },
+   "example": "content/de/wiki/neo-euhemerism.md"
+  },
+  {
+   "codepoint": "U+1F3C",
+   "character": "Ἴ",
+   "name": "GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA",
+   "count": 7,
+   "nfd": "U+0399 U+0313 U+0301",
+   "scopes": {
+    "library-json": 7
+   },
+   "example": "data/library/luke-woh/chapter-21.json"
+  },
+  {
+   "codepoint": "U+1F3D",
+   "character": "Ἵ",
+   "name": "GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA",
+   "count": 6,
+   "nfd": "U+0399 U+0314 U+0301",
+   "scopes": {
+    "library-json": 6
+   },
+   "example": "data/library/theogony-woh/chapter-1.json"
+  },
+  {
+   "codepoint": "U+1F3E",
+   "character": "Ἶ",
+   "name": "GREEK CAPITAL LETTER IOTA WITH PSILI AND PERISPOMENI",
+   "count": 6,
+   "nfd": "U+0399 U+0313 U+0342",
+   "scopes": {
+    "library-json": 6
+   },
+   "example": "data/library/theogony-woh/chapter-1.json"
+  },
+  {
+   "codepoint": "U+1F40",
+   "character": "ὀ",
+   "name": "GREEK SMALL LETTER OMICRON WITH PSILI",
+   "count": 270,
+   "nfd": "U+03BF U+0313",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 261
+   },
+   "example": "content/de/wiki/plurality-of-gods.md"
+  },
+  {
+   "codepoint": "U+1F41",
+   "character": "ὁ",
+   "name": "GREEK SMALL LETTER OMICRON WITH DASIA",
+   "count": 833,
+   "nfd": "U+03BF U+0314",
+   "scopes": {
+    "markdown:de": 11,
+    "markdown:es": 11,
+    "markdown:fr": 11,
+    "markdown:he": 11,
+    "markdown:ja": 11,
+    "markdown:ko": 11,
+    "markdown:ru": 11,
+    "markdown:en": 8,
+    "markdown:zh": 11,
+    "markdown:zh-Hant": 11,
+    "library-json": 726
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F43",
+   "character": "ὃ",
+   "name": "GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA",
+   "count": 166,
+   "nfd": "U+03BF U+0314 U+0300",
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:en": 3,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 136
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F44",
+   "character": "ὄ",
+   "name": "GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA",
+   "count": 291,
+   "nfd": "U+03BF U+0313 U+0301",
+   "scopes": {
+    "markdown:de": 4,
+    "markdown:es": 4,
+    "markdown:fr": 4,
+    "markdown:he": 4,
+    "markdown:ja": 4,
+    "markdown:ko": 4,
+    "markdown:ru": 4,
+    "markdown:en": 4,
+    "markdown:zh": 4,
+    "markdown:zh-Hant": 4,
+    "library-json": 251
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F45",
+   "character": "ὅ",
+   "name": "GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA",
+   "count": 627,
+   "nfd": "U+03BF U+0314 U+0301",
+   "scopes": {
+    "markdown:de": 4,
+    "markdown:es": 4,
+    "markdown:fr": 4,
+    "markdown:he": 4,
+    "markdown:ja": 4,
+    "markdown:ko": 4,
+    "markdown:ru": 4,
+    "markdown:en": 3,
+    "markdown:zh": 4,
+    "markdown:zh-Hant": 4,
+    "library-json": 588
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F48",
+   "character": "Ὀ",
+   "name": "GREEK CAPITAL LETTER OMICRON WITH PSILI",
+   "count": 75,
+   "nfd": "U+039F U+0313",
+   "scopes": {
+    "library-json": 75
+   },
+   "example": "data/library/book-of-enoch-woh/source-6.json"
+  },
+  {
+   "codepoint": "U+1F49",
+   "character": "Ὁ",
+   "name": "GREEK CAPITAL LETTER OMICRON WITH DASIA",
+   "count": 21,
+   "nfd": "U+039F U+0314",
+   "scopes": {
+    "library-json": 21
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1F4B",
+   "character": "Ὃ",
+   "name": "GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA",
+   "count": 4,
+   "nfd": "U+039F U+0314 U+0300",
+   "scopes": {
+    "library-json": 4
+   },
+   "example": "data/library/matthew-woh/chapter-5.json"
+  },
+  {
+   "codepoint": "U+1F4C",
+   "character": "Ὄ",
+   "name": "GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA",
+   "count": 28,
+   "nfd": "U+039F U+0313 U+0301",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 19
+   },
+   "example": "content/de/wiki/elohim-home-planet.md"
+  },
+  {
+   "codepoint": "U+1F4D",
+   "character": "Ὅ",
+   "name": "GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA",
+   "count": 18,
+   "nfd": "U+039F U+0314 U+0301",
+   "scopes": {
+    "library-json": 18
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1F50",
+   "character": "ὐ",
+   "name": "GREEK SMALL LETTER UPSILON WITH PSILI",
+   "count": 2747,
+   "nfd": "U+03C5 U+0313",
+   "scopes": {
+    "markdown:de": 22,
+    "markdown:es": 22,
+    "markdown:fr": 22,
+    "markdown:he": 22,
+    "markdown:ja": 22,
+    "markdown:ko": 22,
+    "markdown:ru": 22,
+    "markdown:en": 16,
+    "markdown:zh": 22,
+    "markdown:zh-Hant": 22,
+    "library-json": 2533
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F51",
+   "character": "ὑ",
+   "name": "GREEK SMALL LETTER UPSILON WITH DASIA",
+   "count": 719,
+   "nfd": "U+03C5 U+0314",
+   "scopes": {
+    "markdown:de": 5,
+    "markdown:es": 5,
+    "markdown:fr": 5,
+    "markdown:he": 5,
+    "markdown:ja": 5,
+    "markdown:ko": 5,
+    "markdown:ru": 5,
+    "markdown:en": 3,
+    "markdown:zh": 5,
+    "markdown:zh-Hant": 5,
+    "library-json": 671
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F52",
+   "character": "ὒ",
+   "name": "GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA",
+   "count": 2,
+   "nfd": "U+03C5 U+0313 U+0300",
+   "scopes": {
+    "library-json": 2
+   },
+   "example": "data/library/matthew-woh/chapter-5.json"
+  },
+  {
+   "codepoint": "U+1F53",
+   "character": "ὓ",
+   "name": "GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA",
+   "count": 21,
+   "nfd": "U+03C5 U+0314 U+0300",
+   "scopes": {
+    "library-json": 21
+   },
+   "example": "data/library/acts-woh/chapter-15.json"
+  },
+  {
+   "codepoint": "U+1F54",
+   "character": "ὔ",
+   "name": "GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA",
+   "count": 118,
+   "nfd": "U+03C5 U+0313 U+0301",
+   "scopes": {
+    "markdown:de": 2,
+    "markdown:es": 2,
+    "markdown:fr": 2,
+    "markdown:he": 2,
+    "markdown:ja": 2,
+    "markdown:ko": 2,
+    "markdown:ru": 2,
+    "markdown:en": 2,
+    "markdown:zh": 2,
+    "markdown:zh-Hant": 2,
+    "library-json": 98
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F55",
+   "character": "ὕ",
+   "name": "GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA",
+   "count": 217,
+   "nfd": "U+03C5 U+0314 U+0301",
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:en": 2,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 188
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F56",
+   "character": "ὖ",
+   "name": "GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI",
+   "count": 184,
+   "nfd": "U+03C5 U+0313 U+0342",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 175
+   },
+   "example": "content/de/wiki/neo-euhemerism.md"
+  },
+  {
+   "codepoint": "U+1F57",
+   "character": "ὗ",
+   "name": "GREEK SMALL LETTER UPSILON WITH DASIA AND PERISPOMENI",
+   "count": 118,
+   "nfd": "U+03C5 U+0314 U+0342",
+   "scopes": {
+    "library-json": 118
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1F59",
+   "character": "Ὑ",
+   "name": "GREEK CAPITAL LETTER UPSILON WITH DASIA",
+   "count": 24,
+   "nfd": "U+03A5 U+0314",
+   "scopes": {
+    "library-json": 24
+   },
+   "example": "data/library/book-of-enoch-woh/chapter-15.json"
+  },
+  {
+   "codepoint": "U+1F5D",
+   "character": "Ὕ",
+   "name": "GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA",
+   "count": 11,
+   "nfd": "U+03A5 U+0314 U+0301",
+   "scopes": {
+    "library-json": 11
+   },
+   "example": "data/library/catalog.json"
+  },
+  {
+   "codepoint": "U+1F60",
+   "character": "ὠ",
+   "name": "GREEK SMALL LETTER OMEGA WITH PSILI",
+   "count": 37,
+   "nfd": "U+03C9 U+0313",
+   "scopes": {
+    "library-json": 37
+   },
+   "example": "data/library/acts-woh/chapter-2.json"
+  },
+  {
+   "codepoint": "U+1F61",
+   "character": "ὡ",
+   "name": "GREEK SMALL LETTER OMEGA WITH DASIA",
+   "count": 205,
+   "nfd": "U+03C9 U+0314",
+   "scopes": {
+    "markdown:de": 2,
+    "markdown:es": 2,
+    "markdown:fr": 2,
+    "markdown:he": 2,
+    "markdown:ja": 2,
+    "markdown:ko": 2,
+    "markdown:ru": 2,
+    "markdown:en": 2,
+    "markdown:zh": 2,
+    "markdown:zh-Hant": 2,
+    "library-json": 185
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F62",
+   "character": "ὢ",
+   "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA",
+   "count": 9,
+   "nfd": "U+03C9 U+0313 U+0300",
+   "scopes": {
+    "library-json": 9
+   },
+   "example": "data/library/matthew-woh/chapter-1.json"
+  },
+  {
+   "codepoint": "U+1F63",
+   "character": "ὣ",
+   "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA",
+   "count": 33,
+   "nfd": "U+03C9 U+0314 U+0300",
+   "scopes": {
+    "library-json": 33
+   },
+   "example": "data/library/theogony-woh/_translation-glossary.json"
+  },
+  {
+   "codepoint": "U+1F64",
+   "character": "ὤ",
+   "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA",
+   "count": 34,
+   "nfd": "U+03C9 U+0313 U+0301",
+   "scopes": {
+    "library-json": 34
+   },
+   "example": "data/library/acts-woh/chapter-2.json"
+  },
+  {
+   "codepoint": "U+1F65",
+   "character": "ὥ",
+   "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA",
+   "count": 68,
+   "nfd": "U+03C9 U+0314 U+0301",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 58
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F66",
+   "character": "ὦ",
+   "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI",
+   "count": 25,
+   "nfd": "U+03C9 U+0313 U+0342",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 15
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F67",
+   "character": "ὧ",
+   "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI",
+   "count": 56,
+   "nfd": "U+03C9 U+0314 U+0342",
+   "scopes": {
+    "library-json": 56
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1F68",
+   "character": "Ὠ",
+   "name": "GREEK CAPITAL LETTER OMEGA WITH PSILI",
+   "count": 61,
+   "nfd": "U+03A9 U+0313",
+   "scopes": {
+    "library-json": 61
+   },
+   "example": "data/library/book-of-enoch-woh/source-6.json"
+  },
+  {
+   "codepoint": "U+1F69",
+   "character": "Ὡ",
+   "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA",
+   "count": 10,
+   "nfd": "U+03A9 U+0314",
+   "scopes": {
+    "library-json": 10
+   },
+   "example": "data/library/acts-woh/chapter-17.json"
+  },
+  {
+   "codepoint": "U+1F6D",
+   "character": "Ὥ",
+   "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA",
+   "count": 5,
+   "nfd": "U+03A9 U+0314 U+0301",
+   "scopes": {
+    "library-json": 5
+   },
+   "example": "data/library/matthew-woh/chapter-25.json"
+  },
+  {
+   "codepoint": "U+1F6E",
+   "character": "Ὦ",
+   "name": "GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI",
+   "count": 4,
+   "nfd": "U+03A9 U+0313 U+0342",
+   "scopes": {
+    "library-json": 4
+   },
+   "example": "data/library/matthew-woh/chapter-17.json"
+  },
+  {
+   "codepoint": "U+1F6F",
+   "character": "Ὧ",
+   "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI",
+   "count": 2,
+   "nfd": "U+03A9 U+0314 U+0342",
+   "scopes": {
+    "library-json": 2
+   },
+   "example": "data/library/book-of-enoch-woh/chapter-22.json"
+  },
+  {
+   "codepoint": "U+1F70",
+   "character": "ὰ",
+   "name": "GREEK SMALL LETTER ALPHA WITH VARIA",
+   "count": 1584,
+   "nfd": "U+03B1 U+0300",
+   "scopes": {
+    "markdown:de": 20,
+    "markdown:es": 20,
+    "markdown:fr": 20,
+    "markdown:he": 20,
+    "markdown:ja": 20,
+    "markdown:ko": 20,
+    "markdown:ru": 20,
+    "markdown:en": 13,
+    "markdown:zh": 20,
+    "markdown:zh-Hant": 20,
+    "library-json": 1391
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F72",
+   "character": "ὲ",
+   "name": "GREEK SMALL LETTER EPSILON WITH VARIA",
+   "count": 1223,
+   "nfd": "U+03B5 U+0300",
+   "scopes": {
+    "markdown:de": 12,
+    "markdown:es": 12,
+    "markdown:fr": 12,
+    "markdown:he": 12,
+    "markdown:ja": 12,
+    "markdown:ko": 12,
+    "markdown:ru": 12,
+    "markdown:en": 12,
+    "markdown:zh": 12,
+    "markdown:zh-Hant": 12,
+    "library-json": 1103
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1F74",
+   "character": "ὴ",
+   "name": "GREEK SMALL LETTER ETA WITH VARIA",
+   "count": 1346,
+   "nfd": "U+03B7 U+0300",
+   "scopes": {
+    "markdown:de": 29,
+    "markdown:es": 29,
+    "markdown:fr": 28,
+    "markdown:he": 28,
+    "markdown:ja": 28,
+    "markdown:ko": 28,
+    "markdown:ru": 28,
+    "markdown:en": 23,
+    "markdown:zh": 28,
+    "markdown:zh-Hant": 28,
+    "library-json": 1069
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F76",
+   "character": "ὶ",
+   "name": "GREEK SMALL LETTER IOTA WITH VARIA",
+   "count": 4842,
+   "nfd": "U+03B9 U+0300",
+   "scopes": {
+    "markdown:de": 43,
+    "markdown:es": 43,
+    "markdown:fr": 43,
+    "markdown:he": 43,
+    "markdown:ja": 43,
+    "markdown:ko": 43,
+    "markdown:ru": 43,
+    "markdown:en": 37,
+    "markdown:zh": 43,
+    "markdown:zh-Hant": 43,
+    "library-json": 4418
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F78",
+   "character": "ὸ",
+   "name": "GREEK SMALL LETTER OMICRON WITH VARIA",
+   "count": 2479,
+   "nfd": "U+03BF U+0300",
+   "scopes": {
+    "markdown:de": 30,
+    "markdown:es": 30,
+    "markdown:fr": 29,
+    "markdown:he": 29,
+    "markdown:ja": 29,
+    "markdown:ko": 29,
+    "markdown:ru": 29,
+    "markdown:en": 23,
+    "markdown:zh": 29,
+    "markdown:zh-Hant": 29,
+    "library-json": 2193
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F7A",
+   "character": "ὺ",
+   "name": "GREEK SMALL LETTER UPSILON WITH VARIA",
+   "count": 729,
+   "nfd": "U+03C5 U+0300",
+   "scopes": {
+    "markdown:de": 4,
+    "markdown:es": 4,
+    "markdown:fr": 4,
+    "markdown:he": 4,
+    "markdown:ja": 4,
+    "markdown:ko": 4,
+    "markdown:ru": 4,
+    "markdown:en": 4,
+    "markdown:zh": 4,
+    "markdown:zh-Hant": 4,
+    "library-json": 689
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1F7C",
+   "character": "ὼ",
+   "name": "GREEK SMALL LETTER OMEGA WITH VARIA",
+   "count": 242,
+   "nfd": "U+03C9 U+0300",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 233
+   },
+   "example": "content/de/wiki/golden-age.md"
+  },
+  {
+   "codepoint": "U+1F85",
+   "character": "ᾅ",
+   "name": "GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI",
+   "count": 8,
+   "nfd": "U+03B1 U+0314 U+0301 U+0345",
+   "scopes": {
+    "library-json": 8
+   },
+   "example": "data/library/acts-woh/chapter-2.json"
+  },
+  {
+   "codepoint": "U+1F90",
+   "character": "ᾐ",
+   "name": "GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI",
+   "count": 2,
+   "nfd": "U+03B7 U+0313 U+0345",
+   "scopes": {
+    "library-json": 2
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1F94",
+   "character": "ᾔ",
+   "name": "GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI",
+   "count": 4,
+   "nfd": "U+03B7 U+0313 U+0301 U+0345",
+   "scopes": {
+    "library-json": 4
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1F96",
+   "character": "ᾖ",
+   "name": "GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI",
+   "count": 6,
+   "nfd": "U+03B7 U+0313 U+0342 U+0345",
+   "scopes": {
+    "library-json": 6
+   },
+   "example": "data/library/matthew-woh/chapter-6.json"
+  },
+  {
+   "codepoint": "U+1F97",
+   "character": "ᾗ",
+   "name": "GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI",
+   "count": 31,
+   "nfd": "U+03B7 U+0314 U+0342 U+0345",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 21
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1FA0",
+   "character": "ᾠ",
+   "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI",
+   "count": 4,
+   "nfd": "U+03C9 U+0313 U+0345",
+   "scopes": {
+    "library-json": 4
+   },
+   "example": "data/library/matthew-woh/chapter-7.json"
+  },
+  {
+   "codepoint": "U+1FA7",
+   "character": "ᾧ",
+   "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI",
+   "count": 37,
+   "nfd": "U+03C9 U+0314 U+0342 U+0345",
+   "scopes": {
+    "library-json": 37
+   },
+   "example": "data/library/acts-woh/chapter-17.json"
+  },
+  {
+   "codepoint": "U+1FB3",
+   "character": "ᾳ",
+   "name": "GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI",
+   "count": 119,
+   "nfd": "U+03B1 U+0345",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 109
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1FB6",
+   "character": "ᾶ",
+   "name": "GREEK SMALL LETTER ALPHA WITH PERISPOMENI",
+   "count": 393,
+   "nfd": "U+03B1 U+0342",
+   "scopes": {
+    "markdown:de": 6,
+    "markdown:es": 6,
+    "markdown:fr": 6,
+    "markdown:he": 6,
+    "markdown:ja": 6,
+    "markdown:ko": 6,
+    "markdown:ru": 6,
+    "markdown:en": 6,
+    "markdown:zh": 6,
+    "markdown:zh-Hant": 6,
+    "library-json": 333
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1FB7",
+   "character": "ᾷ",
+   "name": "GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI",
+   "count": 38,
+   "nfd": "U+03B1 U+0342 U+0345",
+   "scopes": {
+    "library-json": 38
+   },
+   "example": "data/library/acts-woh/_translation-glossary.json"
+  },
+  {
+   "codepoint": "U+1FBD",
+   "character": "᾽",
+   "name": "GREEK KORONIS",
+   "count": 1,
+   "nfd": null,
+   "scopes": {
+    "library-json": 1
+   },
+   "example": "data/library/book-of-enoch/chapter-89.json"
+  },
+  {
+   "codepoint": "U+1FBF",
+   "character": "᾿",
+   "name": "GREEK PSILI",
+   "count": 2,
+   "nfd": null,
+   "scopes": {
+    "library-json": 2
+   },
+   "example": "data/library/book-of-enoch/chapter-89.json"
+  },
+  {
+   "codepoint": "U+1FC3",
+   "character": "ῃ",
+   "name": "GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI",
+   "count": 496,
+   "nfd": "U+03B7 U+0345",
+   "scopes": {
+    "markdown:de": 7,
+    "markdown:es": 7,
+    "markdown:fr": 7,
+    "markdown:he": 7,
+    "markdown:ja": 7,
+    "markdown:ko": 7,
+    "markdown:ru": 7,
+    "markdown:en": 7,
+    "markdown:zh": 7,
+    "markdown:zh-Hant": 7,
+    "library-json": 426
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1FC4",
+   "character": "ῄ",
+   "name": "GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI",
+   "count": 18,
+   "nfd": "U+03B7 U+0301 U+0345",
+   "scopes": {
+    "library-json": 18
+   },
+   "example": "data/library/acts-woh/chapter-17.json"
+  },
+  {
+   "codepoint": "U+1FC6",
+   "character": "ῆ",
+   "name": "GREEK SMALL LETTER ETA WITH PERISPOMENI",
+   "count": 1560,
+   "nfd": "U+03B7 U+0342",
+   "scopes": {
+    "markdown:de": 26,
+    "markdown:es": 26,
+    "markdown:fr": 26,
+    "markdown:he": 26,
+    "markdown:ja": 26,
+    "markdown:ko": 26,
+    "markdown:ru": 26,
+    "markdown:en": 21,
+    "markdown:zh": 26,
+    "markdown:zh-Hant": 26,
+    "library-json": 1305
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1FC7",
+   "character": "ῇ",
+   "name": "GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI",
+   "count": 448,
+   "nfd": "U+03B7 U+0342 U+0345",
+   "scopes": {
+    "markdown:de": 6,
+    "markdown:es": 6,
+    "markdown:fr": 6,
+    "markdown:he": 6,
+    "markdown:ja": 6,
+    "markdown:ko": 6,
+    "markdown:ru": 6,
+    "markdown:en": 6,
+    "markdown:zh": 6,
+    "markdown:zh-Hant": 6,
+    "library-json": 388
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1FD2",
+   "character": "ῒ",
+   "name": "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA",
+   "count": 41,
+   "nfd": "U+03B9 U+0308 U+0300",
+   "scopes": {
+    "markdown:de": 3,
+    "markdown:es": 3,
+    "markdown:fr": 3,
+    "markdown:he": 3,
+    "markdown:ja": 3,
+    "markdown:ko": 3,
+    "markdown:ru": 3,
+    "markdown:en": 3,
+    "markdown:zh": 3,
+    "markdown:zh-Hant": 3,
+    "library-json": 11
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1FD6",
+   "character": "ῖ",
+   "name": "GREEK SMALL LETTER IOTA WITH PERISPOMENI",
+   "count": 2128,
+   "nfd": "U+03B9 U+0342",
+   "scopes": {
+    "markdown:de": 15,
+    "markdown:es": 15,
+    "markdown:fr": 15,
+    "markdown:he": 15,
+    "markdown:ja": 15,
+    "markdown:ko": 15,
+    "markdown:ru": 15,
+    "markdown:en": 11,
+    "markdown:zh": 15,
+    "markdown:zh-Hant": 15,
+    "library-json": 1982
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1FE5",
+   "character": "ῥ",
+   "name": "GREEK SMALL LETTER RHO WITH DASIA",
+   "count": 134,
+   "nfd": "U+03C1 U+0314",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 124
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1FE6",
+   "character": "ῦ",
+   "name": "GREEK SMALL LETTER UPSILON WITH PERISPOMENI",
+   "count": 2479,
+   "nfd": "U+03C5 U+0342",
+   "scopes": {
+    "markdown:de": 36,
+    "markdown:es": 36,
+    "markdown:fr": 35,
+    "markdown:he": 35,
+    "markdown:ja": 35,
+    "markdown:ko": 35,
+    "markdown:en": 35,
+    "markdown:ru": 35,
+    "markdown:zh": 35,
+    "markdown:zh-Hant": 35,
+    "library-json": 2127
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1FEC",
+   "character": "Ῥ",
+   "name": "GREEK CAPITAL LETTER RHO WITH DASIA",
+   "count": 51,
+   "nfd": "U+03A1 U+0314",
+   "scopes": {
+    "library-json": 51
+   },
+   "example": "data/library/acts-woh/chapter-12.json"
+  },
+  {
+   "codepoint": "U+1FF3",
+   "character": "ῳ",
+   "name": "GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI",
+   "count": 368,
+   "nfd": "U+03C9 U+0345",
+   "scopes": {
+    "markdown:de": 5,
+    "markdown:es": 5,
+    "markdown:fr": 4,
+    "markdown:he": 4,
+    "markdown:ja": 4,
+    "markdown:ko": 4,
+    "markdown:ru": 4,
+    "markdown:en": 4,
+    "markdown:zh": 4,
+    "markdown:zh-Hant": 4,
+    "library-json": 326
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  },
+  {
+   "codepoint": "U+1FF4",
+   "character": "ῴ",
+   "name": "GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI",
+   "count": 33,
+   "nfd": "U+03C9 U+0301 U+0345",
+   "scopes": {
+    "markdown:de": 1,
+    "markdown:es": 1,
+    "markdown:fr": 1,
+    "markdown:he": 1,
+    "markdown:ja": 1,
+    "markdown:ko": 1,
+    "markdown:ru": 1,
+    "markdown:en": 1,
+    "markdown:zh": 1,
+    "markdown:zh-Hant": 1,
+    "library-json": 23
+   },
+   "example": "content/de/wiki/zodiac.md"
+  },
+  {
+   "codepoint": "U+1FF6",
+   "character": "ῶ",
+   "name": "GREEK SMALL LETTER OMEGA WITH PERISPOMENI",
+   "count": 2043,
+   "nfd": "U+03C9 U+0342",
+   "scopes": {
+    "markdown:de": 17,
+    "markdown:es": 17,
+    "markdown:fr": 17,
+    "markdown:he": 17,
+    "markdown:ja": 17,
+    "markdown:ko": 17,
+    "markdown:ru": 17,
+    "markdown:en": 12,
+    "markdown:zh": 17,
+    "markdown:zh-Hant": 17,
+    "library-json": 1878
+   },
+   "example": "content/de/timeline/age-of-aquarius.md"
+  },
+  {
+   "codepoint": "U+1FF7",
+   "character": "ῷ",
+   "name": "GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI",
+   "count": 677,
+   "nfd": "U+03C9 U+0342 U+0345",
+   "scopes": {
+    "markdown:de": 7,
+    "markdown:es": 7,
+    "markdown:fr": 7,
+    "markdown:he": 7,
+    "markdown:ja": 7,
+    "markdown:ko": 7,
+    "markdown:ru": 7,
+    "markdown:en": 8,
+    "markdown:zh": 7,
+    "markdown:zh-Hant": 7,
+    "library-json": 606
+   },
+   "example": "content/de/timeline/age-of-pisces.md"
+  }
+ ],
+ "combining_marks_observed": [
+  {
+   "codepoint": "U+0304",
+   "name": "COMBINING MACRON",
+   "count": 1876
+  },
+  {
+   "codepoint": "U+0301",
+   "name": "COMBINING ACUTE ACCENT",
+   "count": 193
+  },
+  {
+   "codepoint": "U+0308",
+   "name": "COMBINING DIAERESIS",
+   "count": 24
+  }
+ ]
+}

@@ -120,6 +120,8 @@ These are evaluation priorities, not features included in 0.1:
 | CJK | Regional Chinese, Japanese, and Korean companions; evaluate Source Han Sans / Noto Sans CJK |
 
 Use reviewed existing companions to provide reliable coverage while original designs develop.
+The first step is done: the [companion proof](https://firmament.wheelofheaven.world/companions/) measures 24 open families (45 faces) against Firmament's metric contract (x-height 460, cap height 700, stem 80/152 at Regular/Bold, typographic colour 184.6/283.9 ‰) and sets them beside Firmament at reading sizes.
+Its findings: Miriam Libre fits Hebrew on stem and colour and is now the Hebrew locale's body and display companion on the main site; Cairo fits Arabic in the Kufi register; no open Greek fits, which is why Greek is drawn rather than paired — the brief is in [scholar/greek](scholar/greek/README.md).
 Read the [full feasibility study](https://github.com/wheelofheaven/firmament.wheelofheaven.world/blob/main/docs/script-expansion.md) for corpus evidence, candidate families, relative effort, and release gates.
 Form should follow the function of each script, language, and reader.
 
