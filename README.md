@@ -20,7 +20,7 @@ The spirit of 1920s German design, extended for the knowledge we pass forward.
 
 **Status: 0.1 optical-review pilot.** Four static styles: Regular, Italic, Bold, and Bold Italic, in TTF and WOFF2.
 584 Unicode mappings per style, including 60 scholarly additions to full Jost.
-The [dedicated showcase](https://firmament.wheelofheaven.world/) uses Firmament; adoption on the main Wheel of Heaven website is managed separately.
+Firmament is the body face of the [showcase](https://firmament.wheelofheaven.world/), the [main website](https://www.wheelofheaven.world/), the [documentation site](https://docs.wheelofheaven.world/), and the site's Open Graph images; each consumer pins the versioned 0.1 files with checksums.
 
 [![The Firmament showcase: Yesterday’s clarity. Tomorrow’s possibilities.](docs/images/showcase.jpg)](https://firmament.wheelofheaven.world/)
 
